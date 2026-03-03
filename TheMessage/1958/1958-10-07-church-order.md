@@ -1,0 +1,144 @@
+---
+Date: 1958-10-07
+Title: Church Order
+DayOfTheWeek: Tuesday
+Location: the Branham Tabernacle in Jeffersonville, Indiana, U.S.A
+Duration: 20 minutes
+Author: William Branham
+---
+
+# Church Order
+
+
+
+**1** We have just closed the big meeting of five nights at the Tabernacle, where, by God's grace and by His help, I have tried hard, by the Scripture, to set in order the church of the Lord Jesus Christ, as we believe at the Branham Tabernacle. The first thing I wish to say is that the pastor is always in full charge of the Tabernacle in my absence, and I only look to the pastor when I return. So, he is in full charge to change or to do whatsoever he thinks is best under the leadership of the Holy Spirit, while I am away.
+
+**2** We believe in an apostolic church teaching apostolic blessings for people of this day. We believe in the full Gospel, and believe that all of the signs and the wonders that was spoken of by our Lord Jesus Christ would accompany His church until He returns. We believe in those things, and believe that they are to be set in order, that the church has its order. And each church has its doctrines and order and discipline. Our church has no members as joiners. We believe that the whole universal church of the living God is our brothers and sisters; and that all people are always welcome, regardless of what denomination they belong to, at the Branham Tabernacle at Eighth and Penn Street in Jeffersonville, Indiana.
+
+**3** We believe in justification by faith, Romans 5:1. We believe that after a person being justified by faith, he has peace with the Lord Jesus Christ; but it's possible that this same person could have habits such as drinking, smoking, doing things that he should not do, filthy habits of the flesh. Then we believe that the blood of Jesus Christ sanctifies this person for the service of the Lord. And that ... we believe in sanctification according to Hebrews 13:12 and 13: "Where Jesus also, that He might sanctify the people with His own blood, suffered without the gate." And we believe that sanctification is taught in the New Testament, and meant for the believers through the New Testament age, which we're now living. And we also believe that after the person has been sanctified, unclean habits has gone from the person (he is a believer on the Lord Jesus Christ and his habits are gone), we believe that then he is a candidate for the baptism of the Holy Spirit, which comes as a filling of the believer. And then when the believer... It's just, as many times as I have taught it, like picking up a glass out in the chicken yard. Justification is picking it up, ready for ... to use it, with a purpose in heart. That's what God does to the sinner. He's still filthy. Then he's cleansed by the blood of Jesus Christ. And the word sanctify is a compound word, which means "cleaned, and set aside for service." In the Old Testament, the altar sanctified the vessel, and it was set aside for service.
+
+```
+Romans 5:1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
+
+Hebrews 13:12 Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.
+
+```
+**4** We believe that the Holy Spirit is putting the same vessel in service; that the Holy Spirit is not another step of grace, but more of the same grace that fills the believer to the extent where that signs and wonders (such as the apostolic gifts spoken of in I Corinthians 12) manifest themself through this believer---when the Holy Spirit comes in to take up the gifts. I believe that the Scripture teaches that "gifts and callings are without repentance," that when we're born in this world, we are sent here by one purpose, that is of God. And that before we are even become adults, while we're yet children, the gifts that we have of God is in us then. And only the filling of the Holy Spirit puts these gifts into operation (but we have them in the beginning), such as teachers, and apostles, and prophets, and gifts of tongues, and the nine spiritual gifts according to I Corinthians 12. Now, we believe that these gifts are in operation today, and they should be in every local church. Although, in such, we have found, throughout the world, that there is much fanaticism hooked along with people who profess to be apostolic believers. Just as they are in other orders, and so forth, we have fanatics. That's been all along we've had those, through the ages. They had it in the apostolic days. And as Paul said there, that how that some had come and persuaded them away after other doctrines and so forth. But in his own teaching he said if an angel from heaven would teach anything else than what he had taught, "let him be accursed."
+
+```
+Romans 11:29 For the gifts and calling of God are without repentance.
+
+1 Corinthians 12:8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
+
+1 Corinthians 12:9 To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+
+Galatians 1:7 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
+
+Galatians 1:8 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+
+```
+**5** So, we, as the Branham Tabernacle, at Eighth and Penn Street here, try to follow the teachings of the New Testament. For we believe that Jesus Christ being the Son of God; and Paul the apostle was a called and chosen vessel, by election of God, to be sent to the Gentile church to set it in order. Now, we believe in water baptism in the Branham Tabernacle, by immersing in the name of the Lord Jesus Christ, which is the apostolic teaching of the Bible. And may all members of the ... or comers to the Branham Tabernacle who desire such, may at anytime requesting to be immersed in the name of the Lord Jesus, may he consult the pastor. And if they have repented, and believed on the Lord Jesus Christ, the pastor will, as soon as possible, even then if he can, baptize them immediately. This does bring them into the fellowship of the believers. We believe that by water baptism we are brought into a fellowship, but by the baptism of the Holy Spirit we are brought into the member ... being members of the Body of Jesus Christ, which is all over the world.
+
+**6** Now another thing that we believe, that the manifestation of the Spirit is given to every man to profit withal. Now, we believe that when these gifts and so forth are operating in the church... Which, we covet and desire that the people who are gifted by the Spirit come and worship with us. Now, in most places, we find that when these gifts in the people ... the people does not understand how and when to use these gifts. And in doing so, they only bring a reproach; which we believe would be just what Satan could do to make the outsiders, the unbelievers and so forth, afraid of this wonderful blessing that God has given to the church in these days. Paul said, "When there come a stranger among us, and we all speak with tongues, won't the man go away and say we were mad? But if one would prophesy, and make known the secret of the heart, then they would fall down and say, 'Truly, God is with you.'"
+
+```
+1 Corinthians 14:23 If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
+
+1 Corinthians 14:24 But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
+
+1 Corinthians 14:25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
+
+```
+**7** Now, we believe that the spiritual gifts among the believers is the order of the day. We cannot believe that a man can preach under inspiration and then ... or be an inspired teacher, and then deny the gift of healing, or the gift of prophecy, or speaking with tongues, or interpretation of tongues, or any of these other gifts. So, therefore, here is my belief in God's Word, the way the Branham Tabernacle, at Eighth and Penn Street here in Jeffersonville, should be operated. I think, the first thing, and believe, that these things which I say is essential and must be carried out in this manner in the Branham Tabernacle for it to prosper in the Lord. And if at anytime these ... this would be questioned, the person who is in question about it may consult me if they cannot get to the pastor, or they could consult the pastor. If I'm home, off of some of the trips, I'll be glad to help either the laity or the pastor at any time. And these things are Scripturally, and I believe it's the order of the church.
+
+**8** I think, first, that every member, or every worshiper, of the Branham Tabernacle should be so much in divine love with each other until it would ... their hearts would long for each other when they have to go away, to leave each other at the service at night. I am a true believer in divine love. The apostle Paul said that was the evidence of the Holy Spirit. "By this manner all men will know you are My disciples," said Jesus, "when you have love one for the other." And we believe that it's the love of God that sent Jesus Christ to the earth to die for us all. "God so loved the world, He gave His only begotten Son, that whosoever believeth in Him should not perish, but would have everlasting life." And the everlasting life here is God's own life, because we become sons and daughters of God by the baptism of the Holy Spirit; which is the seed of Abraham, and gives us the faith that Abraham had, when he believed God before he was even circumcised.
+
+```
+John 3:16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+John 13:35 By this shall all men know that ye are my disciples, if ye have love one to another.
+
+```
+**9** Now, the next thing, we believe that these worshipers should meet together, these gifted people, such as tongues, and people who gets revelations and interpretations, and so forth. These members, or these believers, rather, should come together at least forty-five minutes or an hour before the services ever begin. The church should be opened early, and the believers come together on these nights, and ... at least forty-five minutes to an hour before the services begin.
+
+**10** I believe the Branham Tabernacle at all times should have a Spirit-filled pianist, who would come early, filled with the Holy Spirit, and would play softly, very softly, spiritual music, such as, Down at the cross where the Saviour died, Down there for cleansing from sin I cried; There to my heart was the blood applied, Glory to His name!" Something on that order. "Nearer, My God, To Thee," "Rock Of Ages, Cleft For Me," or, "Near The Cross," or something on that order---softly, slowly, as he is meditating constantly on the Holy Spirit (he or she, whichever it may be). Then I believe that the worshipers coming in should be met, and their ... hang their coats and hats, shown to their seats, with hospitality that only ushers or deacons filled with the Holy Spirit can do, and in love, to see the church of the living God go on.
+
+**11** These worshipers should not talk one with another, and be talking across, and making noise in the church. They should come together. First, slip up in silent prayer, perhaps at the altar, for a few moments. No loud praying, you interrupt someone else; silent prayer, you are in worship. Let that soak in. Worshipping, in your spirit, then return to your seat. Or, you do not have to go to the altar. Just go in and get you a seat, sit down, listen to the music, close your eyes, bow your head, and being silent, worshipping God all along.
+
+**12** Then if the Spirit should reveal something to another, or someone be filled with the Spirit to a place where they would speak with tongues, then this person should rise and give the message. And everyone must hold their peace until the interpretation comes. When the interpretation comes, it must not be just quoting of Scripture, or something that has no meaning. It must be a message directed to the church, or we think that it would be in the flesh. We see so much of that. I believe the Spirit was to speak only for the edifying of the church.
+
+```
+1 Corinthians 14:5 I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
+
+```
+**13** And now it would be a message something on this order, perhaps. Perhaps the people are gathering by this time, some sick people has come in. Perhaps there is a man laying paralyzed or something, you've never seen him before. But when the interpretation would come, it would be something in this order, when the interpretation, or the one who has just spoke, would say: "Well, 'Thus saith the Lord, The man who is in our midst has come from a certain-certain place,'" and describe the place. And would say that he is paralyzed because three or four years ago, whatever it may ... the case may be, he did something evil, like left his wife and children, and run off from them. And he fell from a trestle, or something like that order, and has got hurt, and it's paralyzed him. "Thus saith the Lord, If he will repent of that, and will promise to go to his wife and reconcile himself to her, then he shall be healed now and return to his family."
+
+**14** And then before anyone says anything, there must be at least two or more men, or people, in the building who are spiritually solid in Gospel doctrine, who has a good discernment of spirit, shall rise up and say that it is of the Lord. And if this thing doesn't take place, then tongues should not be mentioned in the church. If the person speaks with tongues, Paul said, "If there be no interpreter," and so forth, "let them speak at home or wherever they may be; for they are only blessing themselves, and it's not for edification of the church."
+
+```
+1 Corinthians 14:29 Let the prophets speak two or three, and let the other judge.
+
+```
+**15** Then this person, after speaking, and the interpretation; and then two or three judges, according to Saint Paul's doctrine of the Bible that it must be judged by two or three judges; then let the person in whom it calls upon, to go and... Maybe it might designate a certain person, or the pastor or someone, to go lay hands on this person, and it ... that's sick or afflicted, and they will be healed. Then let the pastor or the other person, whoever it may be, that it was designated by the Holy Spirit to go pray the prayer of faith, let them go and minister to the person according to what the Spirit has said. Then at that time, the person ... and whatever the Holy Spirit has said, it shall take place immediately then, just as the Holy Spirit has give it. And then the people could rejoice, and be thankful, and praise and worship God, 'cause God wants to be worshipped.
+
+```
+1 Corinthians 14:28 But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
+
+```
+**16** Then they must bow their heads and be in prayer again, to see if there be another message that the Holy Spirit would want these gifts to manifest before. And then if anytime that a person would speak in tongues, and interpret, and the judges would send the person to take ... to do whatever it was said to be done, and it doesn't come to pass, then the whole group of them shall go to the altar and there pray God to take that spirit away from them, because there is no one would want a spirit like that. We would know it would be false, and would be of the enemy and not of God, 'cause God can only tell truth. Let that be clearly understood by the church, before you start this new order.
+
+**17** Then, perhaps maybe it would be something like this, the message would say to a certain brother, maybe that say would live by a railroad track or something, to have him to move out, because there's going to be a wreck on the road or something, or anything in that order. And let the judges, after they give the church permission to speak, or to exercise this message that just went forth, if their judgment is, "It's of God," then watch and see if it comes to pass. And if it comes to pass, thank God; and be very graceful, graceful in your heart towards Him. And give Him praise and worship, and be humble. Above all things, be humble.
+
+**18** Don't never get yourself puffed up to a place where you know more about it than your pastor or the church that you are worshipping in. If you get to that place, then I'd advise each one of you to get another place to worship with, because I am asking the pastor never to permit anything outside of the Bible order---the way we have seen it here in the church. And then we want these gifts to be operated, and in place, and the worshipers. If it's carried on correctly, according to the Word, you'll see a mighty, wonderful church in operation for our Lord Jesus Christ.
+
+**19** Now, then the next thing shall take place will be that if these people who have ... that gets out of order during these times, that a deacon or some usher that's filled with the Holy Ghost and got lots of grace in their heart shall go to the person reverently, fatherly-like, and shall correct them in this manner---or the pastor, whoever it may be. Which would be more essential for the deacons to do so, for the pastor, at this time while these spiritual services are going on, should be in the prayer room or somewhere praying. These messages, then, if there is no messages going on, no revelations, then the people would be privileged, if they desired, to raise and give a testimony, a testimony only for the glory of God. They're not bound to do this, but testimonies should be given before the message or any song service starts or anything, testimonies in these worship services. Do you understand, church, that in doing this, you have the whole church in the spirit of worship before the Word comes in to be taught? Then the Holy Spirit gets in the Word, and manifests God through the Word, to be a confirmation of your worship.
+
+**20** Now, then after this, time for the pastor to come on, if messages are going on... Say the pastor should come out exactly, say, seven-thirty, or a quarter of eight. And if these messages are still going on, before the pastor comes to his ... out of his study or wherever he may to take his place at the platform, some brother should instruct him---because the saints know that when the pastor comes on the platform, it's his time then for the service. And that gives plenty, ample time for all the manifestations of the gifts, to bring the Spirit of God into the congregation.
+
+**21** And if any unbeliever would happen to be there, be disorderly, a kindhearted person would go to them (such as an usher or a deacon), and would tell them if they would ... asked to be kept reverent, or be reverent, while the service is in order. Because, the Spirit is in the building, and the gifts of God are being made manifest for the edifying of the church. And this person must be told in love, and not harshly. Unless it would come to a place where they were drinking, or some disobedient, or something another that would be interfering with the worship of the Lord, which the gifts are then being manifest; then the person should be led out to one side, to one of the back rooms or somewhere, and be talked to and dealt with kindly.
+
+```
+1 Corinthians 14:4 He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.
+
+1 Corinthians 14:12 Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.
+
+```
+**22** Now, while the pastor comes to the platform, after the pastor comes to the platform, I would suggest, as the Branham Tabernacle here, that the pastor lead the congregation in at least one or two good songs. For we have found it so, that when too many are trying to operate in the church, it brings on only trouble. I would suggest---as I did while I was pastoring at the church, I led the songs myself---and I feel that it would be a good thing, if the pastor did so himself.
+
+**23** And in all prayer meetings where they're gathered together, groups of prayer meetings, the pastor must be at each one. It should never be left to any individual to go lead such meetings. For we have found it so, that they get off the track on doctrine, and then it cause ... bring it right back into the church, and many time bring heresies and so forth, which doesn't belong in the church of the living God. And the pastor should be at all prayer meetings, and so forth, where congre... gatherings are.
+
+**24** And the pastor should never take sides in the meeting, saying that one group is this way and one that way. The pastor should stand between both of them, and go to them, and get them reconciled immediately. And if he can't get them reconciled, let him take a deacon with him. And then if they won't hear neither pastor nor deacon, then it should be told to the church, and, as Jesus said, "Let them be unto you as a heathen and a publican. And whatever you bind on earth," said Jesus, "I'll bind in heaven: and what you loose on earth, I will loose in heaven."
+
+```
+Matthew 18:17 And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican.
+
+Matthew 18:18 Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
+
+```
+**25** Now, when the pastor comes to the platform, let the pastor then lead at least one or two songs, and go straight to the Word. Not no time for these long testimony meetings, and everybody get up and a word to say. That does not prosper in the Branham Tabernacle. If any people who are listening to this tape, and it has prospered in your church, well, that's perfectly all right. And we are very glad of that, that it does prosper in your church. But in ours here, it does not; it only causes confusion. I've been pastoring here for twenty-some-odd years, and I have found that it only causes confusion. If you've got a testimony, give it before, in the congregation of the people, while the Spirit is blessing and so forth.
+
+**26** Or, the real way to testify is not in the church, is out in dark places. Let your light shine where it's dark. Go to roadhouses and different places, and where sin and things is heaping, then let your light shine. There is the place to do it. But, however, if the Lord has blessed you and give you some great special blessing, or something that you have to tell the people, do it in time of the other service---the pre-service, the preliminary, or when the Spirit is blessing and giving testimonies and revelations and tongues and interpretations and so forth, in the worship of the saints, before the Word of God is being brought forth.
+
+**27** Then the pastor, after leading this hymn, shall immediately lead the church in prayer, in a congregational prayer, himself, as he stands at the platform, asking the rest of them to bow their heads in prayer. This we have found to be a greater blessing, and a more ruley in operating in the church. And then, the next thing the pastor should do then after... If they had a real spiritual meeting, with the gifts making manifest many secrets of the people's hearts and things which should be done by the gifts in the meeting, then the Spirit of God is in the meeting, and it's very easy then for the pastor to find the Spirit of God (which is already in the meeting) on the Word of God, as he reads and starts preaching. The pastor then preach anything that the Holy Spirit would put on his heart, whatever he wishes to do, standing there.
+
+**28** But the congregation is to only... They can rejoice as he is preaching, of course, or say "amen" when the Word comes forth. But as far as getting up and giving messages in tongues and interpretation while the Holy Spirit is working through the pastor, the Scripture condemns that, and said, "The spirit of the prophets is subject to the prophet." The pastor then must call this individual down, and ask them to be reverent and to keep their place. The pastor must be a man that has got a very humble way about him, but not too humble but what he could be like the Lord Jesus Christ when He seen wrong going on in the church. He platted ropes and ran them out of the church. And now the church of God is the house of judgment, and the pastor is the highest order in the church. The elder is the highest thing in the apostolic church, outside of the Holy Spirit. The Holy Spirit brings His message straight to the elder, and the elder gives it to the people.
+
+```
+1 Corinthians 14:32 And the spirits of the prophets are subject to the prophets.
+
+```
+**29** The saints and their gifts shall have their place first, to worship and come together, which brings (as I have said before) the Spirit of the Lord in the building for the pastor. And it makes it much easier for the Holy Spirit to work through him then, when a great spiritual meeting has just preceded his teaching. And then the Holy Spirit gets into the Word and teaches the Word, has just been manifested by the gifts, and then the altar call is being made then, afterwards. And many then will see and know ---according to the working of the Holy Spirit, and the Word of God which the pastor places it on---that you are the church of the living God. And as Paul said, of old, "He will fall down and say, 'Truly, God is with you.'" Now, in these things, let it be done with reverence.
+
+```
+1 Corinthians 14:25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
+
+```
+**30** And now to the pastor, to our Brother Neville at this time. Remember, he is the full head of the church. Brother Neville has a right to exercise any authority that the Holy Spirit would ... anything the Holy Spirit would tell him to say, in other words. In the church, he has the right to anything that God would lead him to do. He also has a right over his deacon board. He can change the deacon board, the trustees, or pianist, or any other office in the church that he desires to change, feeling led by the Holy Spirit to do so. And whatever he does, I'll recognize it, as he (I believe) to be a godly man. I'll recognize it to be of the Lord, and will sanction the same. Therefore it gives him the authority then to operate the church the way he feels led to do it. Now ... or any office in the church, that he desires to switch positions of people, for he has the authority to do that (which I trust that this will always be lovely, and never have to be used).
+
+**31** Now may the Lord bless you all. And I trust that this will be carried out to the very best of your knowledge. And may the Holy Spirit watch over each one of you. And may every officer of the church fill his post of duty, knowing this, that God is going to hold you responsible for how you held your office in the church. Each one will have to give an account. And to the laity, and the dear gifted saints that's in our church, those who prophesy or speak with tongues, or interpret or have revelations, we are just so happy to have you in the church. And we will give you full cooperation in everything that the Holy Spirit shall prove that He has said to you. And we love you. And we believe that these gifts are in you, and that if you have a right opportunity, and a Scripturally presentation of it, that you will make great workers in our midst. And may the Lord bless you all, is my sincere prayer.
+
+**32** Christians, since listening to this tape, I have one thing that I seen I left out, and that is this: that while people are speaking with tongues, it must be in the courses of two or three, according to the Scripture. That is, there is only two or three messages to be given in each single service. After that according to the Scriptures, that, "These courses must be only two, or three." So may you carry these things out, accordingly, the way the Holy Spirit has directed it in His Bible. And this is, the best of my knowledge, the way to do it. Paul said, "Let them be by courses, two or three, when they are speaking." The Lord bless you.
+
+```
+1 Corinthians 14:29 Let the prophets speak two or three, and let the other judge.
+```

@@ -1,0 +1,14 @@
+[project]
+name = "message-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+	"mcp>=1.13.0",
+	"sqlite-vec>=0.1.6",
+	"click>=8.0",
+]
+
+[project.scripts]
+message-search-mcp = "message_search_mcp:main"

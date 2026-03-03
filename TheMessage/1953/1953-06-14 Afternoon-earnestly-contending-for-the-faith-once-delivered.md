@@ -1,0 +1,464 @@
+---
+Date: 1953-06-14
+Title: Earnestly contending for the faith once delivered
+DayOfTheWeek: Unknown
+Location: the Roberts Park Amphitheater in Connersville, Indiana, U.S.A
+Duration: 1 hour and 6 minutes
+Author: William Branham
+---
+
+# Earnestly contending for the faith once delivered
+
+
+
+**1** Good afternoon, Christian friends. The warmest of Christian greetings in the name of our resurrected Lord Jesus Christ. We're happy to be here this afternoon in the representative way of His Gospel, believing that just what that song said, "All things are possible to them that believe." "If thou canst believe," said Jesus, "all things are possible." I'm just a little bit late: always that way. I was late for my wedding. If I can just be late for my funeral, all right. See? That... My wife will get me for that. She's here this afternoon so... But I was late for my wedding; kept her waiting. Well, just one place I don't want to be late, that's when I get to the door up there. I want--want to be just in time then. Maybe I'll work real hard, I can make that one, by grace, anyhow.
+
+**2** Well, we're... As we say again, happy to be here. And we had a wonderful time through this services, these last two weeks. I guess I about preached you to death in these last two weeks, but we had a marvelous time. Some of... To see the streams of people coming down the aisles, going across into the little... Say, something happened over there, hasn't it? Puts me in mind of one time when my brother and I, we were... Mama had fixed us some popcorn to take to school in a gallon bucket. And so it was around Christmas time. We used to pop the corn. That was a rare thing when I was a boy. And so we used to pop and put around a--a tree, you know, on a little old cedar bush. I remember she had some left over and she put it in a little bucket for brother and I to eat. My brother's gone on, so... I was... Thought, you know, it would be nice just before dinner, if I had one good handful out of that bucket. So I held up my hand and asked the teacher to be excused. And as I went out through the cloak room, I raised up that bucket and just nice big handful. I thought that didn't look too good, so I reached and got me another handful. I went outside and stood behind school house and eat all this popcorn. Come back in. After while, dinner time, we went across the hill and down a little woods to eat, brother and I, we set on a log. Put the little bucket between us. We'd have a little jar of something in there, we'd... couple of spoons. So when it come... We had to eat the popcorn first. You know how kids are. So when I opened up that lid, it was just about half of that popcorn's gone. My brother said, "Say," said, "something happened there, didn't it?" I said, "Sure did." I knew what had happened. So looks like something's happened over here too, doesn't it? All right.
+
+**3** Well, now, I was coming up with some of the folks, awhile ago, and I was saying, "My, what will I speak on this afternoon?" for this Gospel service. Just a little rally in the afternoon instead of spend it out on a beach somewhere, let's come preach the Gospel and enjoy, bathe our self in His beauty and His power. And now... And then tonight, is the closing service. We expect a great healing service tonight. The Lord willing we trust that there will not be a feeble person among us when the services is over tonight. Now, come believing that, expecting that. If you believe it, be inspect--and expect it, God will grant it. Isn't that right? Usually get just what you expecting.
+
+**4** And now, I... As a preacher, you know, I always... I said I was a spare tire. That's when you got a puncture, you know, or a blowout or something; you put the spare on. Sometimes it's not too good, but--but... Now, we haven't got a puncture or a blowout, but we're using "spare" anyhow. Now, I would like to read some of the Gospel, the glorious Gospel of our Lord. I like to tell about it what I know. Don't know too much, but what I do know, I like to share it with others. And you know, that's the way the Gospel is: we have to share it with others. Any good thing, we should share with somebody. When you go to have a great big dinner, and you like to have your neighbor to come in, and say, "Share it with me." And you kindly share things, mutually, all along.
+
+**5** It's kind of a--a day of that now. And then another tie--time that we're living now, is a--is a day of impersonation (See?), or matching, I'd call it. Paint your steps red, and watch what your neighbor will do. He just has to paint his red. See? You swap that Chevrolet for a Ford, Ford business will get good. That's right. That's just the way... Everybody wants to match the other one. That's right. They want... Always said, I didn't care whether my trousers matched my coat, or my tie matched my coat. I want my experience to match God's Bible. So that's kind of matching we ought to do: match up with the standard of God and then... things will be right.
+
+**6** Now, before we... We can lay down the l--lids of His Bible. We can open up the Bible lids, but we cannot open up the Bible: there's only One can do that; that's Christ. The Bible is in the hand of God, on a Throne, like that. And--and there was no man in the heavens, or no man in the earth, or no man beneath the earth, was worthy to--to take the Bible, to open It, or to loose the seven seals that was sealed on the back side of It. And John begin to weep and--and one of the elders said, "Weep not, for the Lamb that was slain before the foundation of the world was worthy and able to come and take the book out of the right hand of Him that set upon the throne. And to open it and to loose the seals thereof." And that's the Lamb of God that was slain before the foundation of the world, the Lord Jesus Christ. May He come this afternoon and open our understanding. May He take the things that's written in this Book and give them out to the people just as they have need of it.
+
+**7** My son, he--he met me there, a few moments ago and drove me around in another car, and he said, "What are you going to preach on, this afternoon, daddy?" I said, "I don't know yet." I just have to wait till I get to the pulpit, and then whatever He tells me, then I start from right there. Sometimes I go from Genesis to Revelations hunting something. But just like a dog on a trail... How many ever seen a Beagle Hound trail? Let's see your... Oh, just look at the brethren I have here. Then, you take a dog and you're trying to get him on the trail and he--he just can't find it. He's just going along. After awhile he stops. He's ears comes up, and his eyes bulge out; he's got the scent, and away he goes. That's the way they have to do. Isn't that right? Just wait till we hit place, and then let the Holy Spirit take it. That's--that's the way. Oh, He's wonderful.
+
+**8** And now, let's bow our heads just a few moments now, while we speak to this great Master of Life. Almighty and all sufficient God, the Author of Everlasting life, the Giver of every good gift, we're looking to Thee today, for the exceedingly, abundantly, Thy Presence may be with us and pour out of Your Spirit upon Your Word. Anoint it, and may it go into them hearts where it's supposed to go, where You intend it to go. And whatever it is You wish for me to say, just speak, Lord, and I will do as You say. Now, Father, I realize that someday, that every person here, we've all got to stand in Your Presence, give an account of our lives, and give an account for what we did with what was told us in this world. Now, Lord, I pray that the Holy Spirit will make the Word of God so plain this afternoon, that when we go there at that day, that we'll ha--when we answer according to Your Word, that our conscience will be clear that we have did just what You said do. Now, may the Holy Spirit take the things of God and deliver them right into every heart, right where they ought to be, and may, when the service is over, may we say like them coming home from Emmaus, "Did not our hearts burn within us because of His Presence," for we ask it in His Name, Thy Son. Amen.
+
+**9** [Gap in the audio] ... shortest books in the Bible, the Book of Jude. It was written A.D. 66, thirty-three years after Pentecost, believed to be thought of as Jude the... he calls hisself the servant, yet he was the brother (foster) of Jesus Christ. His brothers first didn't believe on Him, but after a while they did. And Jude is a prophet. For his little short letter here, which was recognized by the Church to be inspired... He was a prophet. And he was foretelling here and correcting the Church. And it was written to all the churches throughout the age, and I believe specifically to this Church of this age.
+
+**10** Now, the church is always the called out, the borned-again peoples. Whether they're Methodist, Baptist, Presbyterian, whatever they are, it's the called out of God. Now, we want to look right straight into His Word and read some of this here and see what He would say about it. See how He would speak to our heart. And I want every person now, to be just ... let yourself forget about the washing tomorrow, and the things we got to do. We're here for one purpose: worship God. We're here to learn something. And I'm here to learn something. And I'm looking to the Holy Spirit to teach me something this afternoon, teach me how to be a better man, teach me how to be a better minister. And through me, teach you how to be a better Christian. All of us together, it would be a better church. That's what we're here for. And the Word of God is for instruction and reproof, that a man might stand before God blameless. If we follow the blueprint well, we'll stand blameless.
+
+**11** Now, book is Jude. I want to read a few verses of it. Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the father, and preserved in ... Christ, and called: Mercy unto you, and peace, and love, be multiplied. Beloved ... I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and to exhort you that ye should earnestly contend for the faith which was once delivered to the saints. For there are certain men crept in unawares, who was before of old ordained to this condemnation, (Let that soak just a minute; I'm going back to read it again.) who was before of old ordained to this condemnation, (You believe it? That's what He said.) ungodly men, turning the grace of ... God into lasciviousness ... denying the only Lord God, and the Lord Jesus Christ. I will therefore put you in remembrance, though ye once knew this, how that the Lord, after having saved the people out of the land of Egypt, afterwards destroyed them that believed not. And the angels which kept not their first estate, but were left in their ... habitation ... reserved in everlasting chains under darkness unto the judgment of the great day. Even as Sodom and Gomorrah, and the cities around about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire. Now, if I'd call it a text, it would be this (Found in the 3rd verse in the last phrase): Earnestly Contending For The Faith That Was Once Delivered To The Saints. Now, I want you to notice in Jude's address to this letter, who he is addressing. He's addressing Christians. He's not speaking now to unbelievers; he's talking directly to Christians. Now notice: "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified," (not to the world) " to them that are sanctified in God the Father, preserved in Jesus Christ and called."
+
+```
+Jude 1:1 Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
+
+Jude 1:2 Mercy unto you, and peace and love, be multiplied.
+
+Jude 1:3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+
+Jude 1:4 For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
+
+Jude 1:5 I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
+
+Jude 1:6 And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
+
+Jude 1:7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+
+```
+**12** Now, he is addressing to the church, telling them: "Just to those that are sanctified in God, preserved in Christ and called." Now, he said, "Now, you're the people that I'm talking to, that you will earnestly contend for the faith that was once delivered to the saints." Now, not 'a' faith that was delivered, but 'the' faith that was delivered. Did you notice there? "The faith that was once delivered to the saints." Not just 'a' faith. Some people says, "Well, that's against my faith." There's only one faith. One faith, one Lord, one God, one baptism, one faith, one doctrine. And now people say, "Well, I have 'a' faith and I go to my own church." Well, that's not what Jude's speaking to here. He's talking to the people that's to contend for 'the' faith that was once delivered to the saints.
+
+```
+Jude 1:3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+
+```
+**13** Now, the only way that we're going to ever know what's... If we can only find out what 'the' faith is, then we can earnestly contend for that faith. Is that right? What 'the' faith... Now, "the faith that was once delivered to the saints." Now, if we'll go back to where they were first called saints and find out what kind of a faith they had, then we'll know more or less what to contend for. Now, when the church was called saints, was after they were sanctified. The word "sanctify" or "saint" come "sanctify," meaning "clean, pure, holy, unadulterated" and so forth. Now, if... That was the beginning of the Church when it was inaugurated at the day of Pentecost.
+
+```
+Jude 1:3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+
+```
+**14** Now, let's look what they had back there, what that church contended for, what they had lost. Now, just thirty-three years after the beginning of the church... Now, you know Jude wouldn't be talking about back in the Old Testament under the Levitical laws, see. Because he's a Christian. He was talking about when the first church was set in order, was inaugurated on the day of Pentecost. And now, we'll notice what kind of a faith that they had. They had a faith in a resurrected living Christ, someone who had rose from the dead and was living among them, just the same as He was before He ever died. Now, see, they wasn't contending for some historical affair, but they were contending for a living Christ, a resurrected One who was in their midst.
+
+**15** Now, when He rose from the dead, He done the same things after He rose from the dead, through the apostles, that He did before He died, even greater and more of it. Now, "Yet a little while," He said, "and the world seeth Me no more, yet ye shall see Me," the church, the believer, "for I will be with you, even in you, to the end of the world." Now, that was what the apostles believed. And they believed that what He was in the flesh, He was also, and more, in the Spirit. And that's what they taught; that's what they believed; and that's what they practiced; and that's what God confirmed. But during this time, this thirty-three years of lapse, there become many false brethren who had raised up, and had brought in heresies, and brought people off to theology and different things like that.
+
+```
+Matthew 28:20 Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
+
+John 14:19 Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
+
+```
+**16** And as Paul ... I think of him laying there when they come and told him. This little Jew with his little hook nose, laying down there in prison, the chains around him and around his ankles and so forth. And said, "Well, some is preaching Christ for gain and some is turning others ... disciples aside." There it begin to organize and got great organizations and so forth. He said (Here was his credentials.) " How," said, "I have so many marks on my body that was put there. I've been in perils upon the sea. I've been in perils among false brethren." All these different things, he showed as marks, his credentials before God, that he had suffered for the cause that Christ died for.
+
+```
+Galatians 6:17 From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
+
+```
+**17** God help us to have that type of a credential today. And let's contend for the faith, the true faith that was once delivered to the saints. The saints believed in the death, burial, resurrection. They believed in the baptism of the Holy Spirit. The early church believed it. Do you believe it? Then let's contend for it. Now, they believed in signs and wonders following the believers. Now, they begin to fall away. Now, Jude said that man of old was foreordained to do this. Now, God is sovereign. Of course, He knows: "He is not willing that any should perish but all might come to repentance." But in order to be God, He has to know, and He does know before the thing ever come to pass, who would be saved and who would not be saved. That's right.
+
+```
+2 Peter 3:9 The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
+
+```
+**18** So there is some people that will not, and God knew it in the beginning they would not. And He even raised up Pharaoh and hardened his heart for that very cause, that He might show His power. And Esau and Jacob, to show the election of God might stand sure, before either child, when they were born ... before they were born, God said, "I love Jacob and hate Esau." That's right. See, you're a Christian because God has ordained that you must be a Christian. Now, you can turn it aside. God will set somebody in your place. But your place is setting there. If God calls you, go take it, and stay with it.
+
+```
+Malachi 1:2 I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet I loved Jacob,
+
+Malachi 1:3 And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
+
+Romans 9:13 As it is written, Jacob have I loved, but Esau have I hated.
+
+```
+**19** Now, how marvelous. Earnestly contending for the faith that was once delivered to the saints, all back in the age. Now, the very faith that they had at the beginning, is supposed to be today yet. A very fine scholar I was having dinner with, here some time ago (E. Stanley Jones), said, "Brother Branham," said, "I see most of your meeting is made up of pentecostal people." Said, "Yes, sir." He said, "Why so?" I said, "They're the ones that believe." And he said, "Well," he said, "Brother Branham, I think that Pentecost was a scaffold." Said that God was going to put up a building and He made Pentecost a scaffold. "Well," I said, "that's right. I will agree with you." And he said, "Well, see, after the scaffold work is done, we don't need the scaffold anymore." I said, "But the scaffold work isn't done. When the building is completed, God will take it up. So we're still working on the building." Amen.
+
+```
+Jude 1:7 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+
+```
+**20** Yes, sir. We still need every step ladder, every stepping stone. We need everything. Just exactly. The building is still in making, and when it's completed---this Gospel is preached to every kindred, tongue, and nation---then Jesus will return. That's right. Now, we've had plenty of passing out tracts and theology, around the world. But the Gospel is not the Bible altogether. The Bible ... Paul said, "The Gospel came to us not in word only, but through power and demonstrations of the Holy Ghost." Then when Jesus said, "Go into all the world and preach the Gospel to every creature," then He meant, "Go into all the world and demonstrate the power of God to every creature."
+
+```
+Mark 16:15 And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+
+1 Thessalonians 1:5 For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
+
+```
+**21** And in order to preach the Gospel, before you can make it a Gospel preached, then you've got to have the power and demonstration of the Holy Spirit to prove the Gospel. "The letter killeth (the Word) the letter killeth, the Spirit maketh alive." So it's not just a ritualistic affair but it's absolutely a real, living reality of the resurrection of Jesus Christ living among men. And that's the faith that I'm trying my best to contend for today: that Jesus Christ is the same yesterday, today and forever and His power is unlimited.
+
+```
+2 Corinthians 3:6 Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
+
+Hebrews 13:8 Jesus Christ the same yesterday, and to day, and for ever.
+
+```
+**22** If you can limit God, you can limit Christ. And if you limit the church today and it's possibilities, you're limiting God. "But all things whatsoever you desire, when you pray, believe you receive it, and you shall have it." He said that, I believe it, and I know it's the truth. Now, we think of how marvelous how God has did these things for us, and to see in this day how it's been predicted by the prophets through the Scriptures.
+
+```
+Mark 11:24 Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.
+
+```
+**23** And someone asked me (It was the same man), why did I associate myself with pentecostal people? Now, here's the reason. Now, I know there's many things that I think they ought to be straightened out on, in some doctrine. That's my own opinion, they might think I ought to be too, see. Now, but here's one thing: that I have found the people with a living faith, where they have absolutely caught a hold of something: God out there that gives them a new birth, that puts God into the person, that makes him believe in the supernatural. Now, if you're not born again, you do not believe in the supernatural. And if you do not believe in the supernatural, you haven't been born again. Because when you're born again, you become a son of God; and being a son of God, you're a nature of God. And then you take on the things, and you want to see the moving of God, and see God move; because you're His son, and you're made in His image, and you're born of His Spirit. You're a part of Him. And then you've got faith for anything. Amen.
+
+**24** Notice how from the beginning, Satan has been so close. Now, a lot of people say today, "Oh, Brother Branham, don't you think that communism is awful?" Yes, it's awful. But that's not the antichrist. No, sir. Jesus said, "The antichrist would be so close like the real, it would deceive the very elect if possible." It's religious people. That's where it comes in. Now, let's go back to the beginning, way back. Go back in the Garden of Eden, even we could go before that. But let's take the first two boys that was born on this earth. Cain, first. Really, he was supposed to have the birthright but lost it, just as Esau was, just as the first church of the mother church, as you want to call it. All the way through, lost the birthright.
+
+```
+Matthew 24:24 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.
+
+Mark 13:22 For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.
+
+```
+**25** Now, Cain and Abel, when they were put out of the Garden of Eden because that death had come to their parents and them, both of these boys was very religious boys. Now, if you want to find out what day we're living in, if you want to find out what kind of a crop is going to come up out here, go back and find out what kind of seed you got planted. And now, Genesis is the seed, or the beginning. And how that back there in the beginning, we see the spirits move up.
+
+**26** For instance, all down through the Scripture... We think of Babylon. When Babylon first appeared, look at it down through the Bible. Babylon appeared back there... You know, Nimrod built Babylon. First, Babylon was called "The Gates of Heaven." Then it was called "Confusion." And there's where idolatry first started. Nimrod was a son of Ham, which come on back from a son of Cain. Watch them seeds as they come up. Watch what they bear. Watch how ... actions they take. And now, we're plumb in above the skies with it. The crop has growed up. Oh, I hope God soaks that way down deep now, so we can get a foundation. I see something moving up now. Way down here in the seed... Watch what it's going to go to up here. Find out where your seed's at, and what it is.
+
+**27** Now, Cain and Abel was both very religious men, and one of them was the type of Christ, and the other was the antichrist. Cain was just as religious as Abel was. Amen. Notice him. Then many times, you notice, looky here, as Cain killed Abel at the altar, so did Judas kill Jesus at the altar, which Cain and Abel were a type of Judas and Jesus. All down through there's a pro and con. Look in the ark. There was a dove and there was a crow. Both of them sitting on the same ark, same roost. And one of them was willing to go up... Both of them could fly. Both of them were fowls. And one, if you notice, it was a diet.
+
+**28** When they turned the crow loose, he could fly from dead carcass to dead carcass and eat and be satisfied. But the dove could find no rest for the soles of her feet. A dove hasn't got any gall, so it couldn't digest such. How beautiful type of the church! A man says, "Well, I'm a Christian, but I can do anything I want to." Brother, it shows something another... Man is known by his works; your fruits bear record of what you are. And this old crow could go from body to body, and eat dead carcass and feel satisfied, but the dove found no rest for the soles of her feet. She returned back home again.
+
+**29** And every man that's born of God, and you might backslide or fall out, but if you're born of God, you're coming back to the ark, sure as anything in the world. The church of the living God will have to move to the ark. You haven't got any gall. God has done took it all out when He cleansed you up and made you a new creature in Christ Jesus. Look at the horses. The gray and grizzled, the horses. All down through, all down to Jesus and Judas. About time Jesus come on the scene, Judas come on the scene, and they were brothers in the same church; One the pastor and the other one the treasurer. And look. Some people only see three crosses at Golgotha. There were four. There was a thief on one side, thief on the other side, Jesus in the middle. And, "Cursed is he that hangeth on a tree." Jesus was made accursed for us hanging on a tree. And Judas hung himself on a sycamore tree. Just as much cross as the rest of them was on.
+
+```
+Deuteronomy 21:23 His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance.
+
+Galatians 3:13 Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
+
+```
+**30** Now here, look. Here was the Son of God, come down from the ivory palaces of God, made flesh and dwelt among us. Here is Judas, the son of perdition, come from hell, returning back to hell. Here is God in flesh, come from Heaven, returning back to Heaven. There's a thief on one side, said, "Lord, remember me when You come into the kingdom." The other one said, "If," that question mark, whether God meant it or not. "If Thou be the Son of God, save us." There's a Gospel preacher, preaching across to the unbeliever. Hallelujah! There you are.
+
+```
+Luke 23:39 And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.
+
+Luke 23:42 And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.
+
+```
+**31** There was Jesus returning back, taking with Him the borned-again, repented church. And the devil going back, taking that bunch. "If You be a divine healer, do this." "If you be this..." "If this be right..." If, if, if. Always, Satan putting a question mark across the Word of God. "If Thou be..." "Well, if He is a divine healer, let Him heal this one, let Him this one." "If He be, let Him be this." If, it's always... That's with a question mark in it. But a real true believer believes every word that God said is the truth. And takes it the same way. There you are.
+
+**32** Notice. Let's get back to Cain again. Get some of the faith in the beginning. Watch those spirits, how they begin to move. It's the spirit of anything that does the work of it anyhow. The people have to be in this kind of a spirit to bring the latter days. The people is in the spirit of the latter day. The nations are in the spirit of the end time. They got atomic weapons, hydrogen weapons, all kinds of things, because it's the spirit of the day. The people are in the spirit of the end time. The church is moving together under the power and the impact of the Holy Spirit. And the world is running out yonder, making fun, scoffing, laughing, living like the devil every day. It's in the spirit of the thing.
+
+**33** God's getting ready to take His and the devil is getting ready to take his. Hallelujah! There's no if, to God's Word, before the church. They say, "It's 'Thus saith the Lord,' we believe it." Let the world say what they want to. They always scoffed and laughed. They come from back in the beginning. Look how fundamental sometimes we can be without knowing truth. Now notice, back there in the beginning. When Cain and Abel came out of the Garden, driven out, because that there was sin. Death had separated them from God. And God put a Cherubim---Angel with a flaming sword---around the Tree to protect that Tree of Life.
+
+**34** Now, here's the tree of death. I have my idea of what it was, you can have yours. But anyhow, that whenever they taken this tree, they were going to die. But if they ever taken this Tree, they were going to live. So, when they'd taken the tree of death, that separated them from God, and He put an Angel around that Tree to keep them from taking it. Because the very time that they'd taken of that Tree, they would live forever, even knowing good from evil. Is that right? All right. Then notice. That tree was the woman, and when Adam partaken of this, it separated him... The woman still brings the life in the world; it has to die again. But the Tree of Life that was standing in there was Jesus Christ. When He come down there at the Jewish feast that day, and they said, "Our fathers eat manna in the wilderness." He said, "And they're every one dead. But I am the Bread of Life that come from Heaven. If a man eat thereof, he shall never die." He was that Tree that was in the garden of Eden.
+
+```
+John 6:31 Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
+
+John 6:49 Your fathers did eat manna in the wilderness, and are dead.
+
+```
+**35** And just as sure as we're born of a woman, we're full of sorrow, and few days, and die. But every man that's born by Jesus Christ, the Son of God, has everlasting life and will be raised up again in the last day. But it mustn't be an impersonation, it must be a genuine Holy Ghost, regenerated birth, that makes a new creature out of him. It can't be just a make-belief, or some theology. It must absolutely be a supernatural birth. Just as there was pains and groaning in the first birth of natural, there will have to be the same thing in the second, making a man a new creature in Christ Jesus. Hallelujah! Oh, don't get excited. I haven't hurt no one yet.
+
+```
+Job 14:1 Man that is born of a woman is of few days, and full of trouble.
+
+```
+**36** Look. But here, when I see Cain, Abel, they wanted and seen ... mortal they were ... how mortal. They've got to get a way. They've got to find favor before God. And they go out and get some different ones ... get their fruits of the field, and so forth to go and make a sacrifice, to try to appease the wrath of God, the judgments of God that's been passed upon them. Cain toiled hard, no doubt; raised a nice crop of fruit. Now, watch. Cain was just as religious, just as much of a gentleman in every respect that Abel was. Now, not by good works we are saved, but by His mercy.
+
+```
+Genesis 3:24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
+
+```
+**37** Then they both come up to worship before God. I believe it was east of the gate. And I believe they come right up before His presence, there where that flaming sword was running around the east side of the gate, like that, guarding the Tree of Life. Look. Here it is. I hope you get it. Just as sure as man is born of a woman, he has to die. It's just that sure, if he is born of Christ, he has got to live. He has got to live. He can't help it. He's got eternal life. Christ said he had.
+
+**38** Now, in that day, God guarded the Tree to keep them from getting it. And now, that sword has turned right back the other way now, running them right into the tree, so that they will receive the life---driving people, herding them up to the Tree of Life. How marvelous. Then I notice, look at this. Then when Cain come up, and he built an altar unto the Lord; both of them did. Now, if an altar is all that God requires, or a church membership, Cain was just as just as Abel was. Cain built an altar, just with as good intention as what Abel did. Well you say, "Brother Branham, as long my intentions is good..." No, sir. That won't do it. "Well, I joined church with all good intentions." That still doesn't do it. Cain did too.
+
+**39** And now remember, Cain wasn't an infidel. Cain was a believer. This is going to shake the gizzard out of you (I hope it does), some of you fundamentalists, and puts a heart in you. That's right. A heart of belief. Notice. Cain was religious and a believer. He come up and built an altar to the Lord, with just as much faith, as what Abel did. "But there is a way that seemeth right unto a man..." Now, you'll understand, after a while, why I'm a holy-roller. Now watch. He came up and built an altar unto the Lord with the sincerity of his heart. And he went out and got the best fruits he had, and laid them on the altar---probably decorated the altar all up with beautiful flowers. I could prove that in a little bit. Wouldn't take me but a minute. But beauty is one of the most deceitful things there is.
+
+```
+Proverbs 14:12 There is a way which seemeth right unto a man, but the end thereof are the ways of death.
+
+Proverbs 16:25 There is a way that seemeth right unto a man, but the end thereof are the ways of death.
+
+```
+**40** Satan got the same idea, and wanted a more beautiful kingdom than Michael, when he went over and set up his kingdom in the north. That's the nature of him. Here's his own boy down here with his same nature. Cain. There he was. He goes up there and builds this altar. He goes out, and probably gets the great big calla lilies off of that ground that had just recently been cursed, placed them all over the altar. Puts me in mind of a good ... of one of these modern churches today. On Easter, everybody comes to church. They buy a Easter flower, and lay them on the altar, all along. God don't want the Easter flower on the altar; He wants you on the altar. The altar was made for man, not for flowers.
+
+```
+Isaiah 14:12 How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
+
+Isaiah 14:13 For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
+
+```
+**41** But what's the matter today, you've took the altar out of the church, and put it down the basement. And the only fire you got left, is in the basement. Hallelujah! What we need is an old upper room experience, where God pours out His Holy Ghost power and fire like He did in the beginning. But all we got today is what we've got in the furnace---the irons. Pentecost is getting as bad. That's the truth. Now, notice. Here is what God did. Cain comes up. He offered his offering. Now, if God only requires a church membership, Cain had it. If God requires sincerity, Cain had it. And then if God requires a sacrifice, Cain did it.
+
+**42** And then, after he got his sacrifice, his altar, his church, everything ready ... beautiful. Probably a lot more beautiful than Abel's was. But God doesn't dwell in beauty made by hands. The beauty of holiness is where God dwells in, where the power of the Holy Spirit... Yes. Then notice. Then after he made his altar, made his sacrifice, joined church, the sincerity of his heart... That's a pretty good fellow, we'd call him today. He'd make a dandy fundamentalist. All right. Here he comes, then he kneels down. Reason I rapped that, because that's what I was, see. Notice... And I am yet, fundamental, but there is some more goes with it. Like the old colored man eating the watermelon. Said, "That was good but there's some more of it." That's right.
+
+**43** Notice. He knelt down. And he worshipped God. He had a church, a membership. He had an altar, had a sacrifice. And he worshipped God. If God only requires you to go to church, and to be a believer, put your name on the book, pay into the church every year, and worship God, Cain is just as just as Abel was and God should be condemned for condemning Cain. That's right. But notice. Oh, he made things beautiful. He built a great big fine place, I guess, and fixed it all up. Ignorant enough to believe that it was apples that took him out of the Garden of Eden. I say this, not for no smutty remark, but if eating apples caused the women to realize they were naked, it's time to pass the apples again. That's exactly right. Yes, sir. It wasn't no more apples than nothing else.
+
+**44** Notice. But here come Abel. Hallelujah! Not working, but by grace, election, calling. Here he comes along with a little lamb he picked up out of the flock. He had a grapevine around his neck, come dragging it along. You say, "How do you know it?" Well, they didn't have any hemp, so I guess it must have been a grapevine. "Did they lead him up there?" Yes, sir. Because that was a type of Christ, and they led Him away to Calvary. Here comes Abel, knowing that it wasn't apples or fruits. God didn't dwell in beauty, or sincerity. He dwells in election and calling. So, he wraps this vine around the lamb's neck and here he comes, moving up to the altar.
+
+**45** I suppose his altar was a big rock. He takes this little fellow, throws him back on this rock like this, takes a rock, (because I guess they didn't have any lances or knives in them days), pulled his little head back. And there was Cain up there, just glorifying God in his beauty. "Look what I've done, Lord. Looky here. You know my heart. You know I'm sincere. I'm giving You all the praise. I'm doing this. I'm doing that." All what he's doing. And little old Abel took that lamb, threw it back like that, got a rock in his hand, begin to chop its little throat.
+
+**46** If a man ever heard a lamb die, the bleeding, bleating... I see Abel's hands become bloody. I see the white wool hanging around that little lamb, bloody. God looked down, He said, "That's it. You got it." What did it speak of? Of some nineteen hundred years later: The Lamb of God that was slain from the foundation of the earth, was led with a rope around His neck, up Golgotha's hill yonder. Hallelujah! They laid Him down, they beat His body into stripes for the healing. They nailed nails in His hands, and He stuck there between the heavens and earth, on the Rock of ages, crying out with an unknown tongue. Speaking, "Eli, Eli." That Lamb was speaking in an unknown tongue to who? To the sacrificer.
+
+**47** It was setting there before Abel. And Abel didn't know what that lamb was doing. It was bleating out, bleating out. And the people that was killing this Lamb---the Jews that hung Him to the cross, the unbelievers---didn't know what He was saying. He was speaking out to the Father, "Eli, Eli." That was Abel's Lamb, slain from the foundation of the world. His bloody locks hanging around Him. Billy Sunday said every tree had an angel sitting in it, saying, "Pull Your hand loose. Point Your finger; we'll change the scene." The Jews said, "He saved others, He can't save Himself. If He is that great Saviour, let Him save Himself, then we believe Him." Why, it was the greatest compliment they ever paid Him. Why, He couldn't save others, and save Himself, so He gave Himself to save others. Hallelujah!
+
+```
+Matthew 27:42 He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
+
+```
+**48** There's God's provided sacrifice. There's the faith that was once delivered to the saints. Hanging, bleeding, bleating. Dying, like Abel's lamb. Well, there was Cain, just as sincere. Just as religious as he was. Just as much altar as he had. Look at that old spirit come right on down through the age. Look at it come down to the children of Israel. If you'll notice for a few moments, look at Israel when they come out of the wilderness ... into the wilderness, rather, and was getting ready to cross. Moab wouldn't let them cross the country. Now, Moab was believers, the Moabites. You know who it was? That generation come from Lot's daughter's child, where they lived with their father. And one of the oldest one went over, and the land of Moab come from him.
+
+```
+Genesis 19:34 And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, and lie with him, that we may preserve seed of our father.
+
+Genesis 19:35 And they made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.
+
+Genesis 19:36 Thus were both the daughters of Lot with child by their father.
+
+Genesis 19:37 And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day.
+
+```
+**49** Now, here come Israel up. Talk about bad things. Look what Israel had. Every ungodly thing could be thought of, was right among them. Here they come journeying. Now, here come the prophet Balaam, coming down to curse Israel for Balak. What a type of today. The hollering prophet trying to curse what God has blessed. You couldn't do it if you had to. Here he comes. Why, he was so money crazy, till he couldn't see the Holy Spirit standing in the road with a drawed sword. The mule knowed more about it than he did. That's right. If people just had some good mule sense today, I believe they could see it. That's right.
+
+**50** Here was the mule, seeing the Angel of the Lord, and shunned off to one side. He knowed he was out of the will of God. Then notice what taken place then. Then he gets down there and he looks out. Now, Balaam ... or, Balak, rather, the King of Moab, he wasn't a infidel. He was a believer. Sure he was. And Balaam wasn't an infidel. Balaam the prophet, he was a believer. But here's two sets of believers. Them same spirits, like Cain and Abel, they'd come right down again. Now notice. Here was a man, the king of Moab, said, "Come down and curse this people." Believers cursing the believers. Now, Balak come down, got up on the hill, and Balaam showed him the uttermost parts.
+
+```
+Numbers 22:11 Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
+
+Numbers 22:41 And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
+
+```
+**51** That's the way the devil does. He wants to show the very worst side of it, somebody who failed. They say, "Look at this one here. He went to a religious fanatic because he went too far." You don't point your finger to them tens of thousands, the same time, didn't go far enough. That's right. That's right. If I could go out here and ask in the graveyard, say... I know some woman here, not long ago, a Christian Science woman let her baby die because she wouldn't have a doctor. I differ with her on that, but anyhow, that's her faith, or what she believes about it.
+
+**52** Now, if I could go to the graveyard down here and say, "Every person that died trusting God for your healing, stand up." Then, "Every one of you that died under medical science, stand up." Which side would be the most? So, sauce for the goose is sauce for the gander, see. The same time that went across the country, telling everybody that divine healing was a fanaticism, not to pay any attention to it, and so forth like that, it was nothing but ... it wasn't worthy. The same time, tens of thousands of people died under medical treatment. Now, if we lost one by divine healing because of unbelief and then divine healing shouldn't be looked upon, then they shouldn't look upon medical science, hospitals, or anything else, for it's six of one and a half-a-dozen of the other. If one failed then do you have to count it all wrong? No, sir. I'd say they both ought to be together, working for the glory of God and the coming of the Lord Jesus. That's right.
+
+**53** Now, we notice this then. How beautiful. Then Moab come down. And he said, "Now, go out there Balak ... Balaam; I want you to curse that people. See the back part of them over that hill there?" "Yes." He seen it. Now watch. Balaam built seven altars. Now, he wasn't a communist; he was a believer. Now, he's up here on the hill. And here's Israel down in the valley. And he builds seven altars.
+
+```
+Numbers 22:11 Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
+
+Numbers 23:1 And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
+
+```
+**54** And on each altar, he offered a bullock, clean sacrifice; one required by God. And on each altar he offered a ram, male sheep, which spoke of the coming of Jesus. Fundamental? Just as fundamental as it could be. Look. Seven: God's perfected number, number of worship. "Six days shall thou labor, seven days..." All down through the ages, seven church ages and so forth. Seven is God's worshipping number. And here this prophet, under inspiration, comes down and builds seven altars, offered the forecomings, proving that they believed in the first coming of Christ, offered the bullocks. Just as fundamental as they was down there in the camp in Israel. Do you get it?
+
+```
+Exodus 20:9 Six days shalt thou labour, and do all thy work:
+
+Exodus 20:10 But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
+
+Numbers 23:2 And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
+
+Deuteronomy 5:13 Six days thou shalt labour, and do all thy work:
+
+Deuteronomy 5:14 But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou.
+
+```
+**55** Here's Israel offering the same offerings that Balak's offering up here on the hill. One is offering a ram, saying, "We believe that God will send His Son someday in the world." Here, up here on the hill, just as fundamental as they was: "We are offering a ram, believing God will send His Son." Notice. Then all the princes of Moab stood around the smoldering sacrifices, worshipping God, just as fundamental as it could be, Scripturally just as good as the other group had. And there is where it is today, friends. People can be just as fundamental in your doctrine. I know men that would ... and thousands of them probably. There is many of them sitting, listening at me right here today, and I hope this cuts you till you can't stand it.
+
+**56** Look. You can be just as fundamental..i wouldnt... People preach the virgin birth, the death, burial, resurrection, second coming. That's true. I couldn't fuss with you about that. You believe it, and it's the truth, and I do too. So did Balak. So did Israel. But what Balak failed to see there, down here in this camp they had signs and wonders following them. That's what they failed to say today. They're just as fundamental as we are. They believe it just the same way we do. But they deny that there is a resurrection power working among the people. Well, did the Holy Ghost speak that it would be that way? Paul said, "In the last days they would be heady, highminded, lovers of pleasure more than lovers of God; having a form of godliness, but would deny the power thereof." Hallelujah!
+
+```
+2 Timothy 3:1 This know also, that in the last days perilous times shall come.
+
+2 Timothy 3:2 For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+
+2 Timothy 3:3 Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+
+2 Timothy 3:4 Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+
+2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away.
+
+```
+**57** There it is back in the beginning. There was a Middle Age. It was that same group of fundamental believers that put Jesus Christ on the cross and killed Him, because He had signs and wonders, and they didn't believe it; that same spirit lives among the churches today. A religious people. Not a bunch of infidels. Fundamental. Place it right out there and they're exactly right. But they have the form ... form of godliness. Fundamentally right, but denying the power thereof. The power of what? The power of healing, the power of shouting, the power of speaking in tongues, the power of interpreting, the power of the church moving just like it did in the beginning. And, brother, sister, we are contending for the faith that was once delivered to the saints. Hallelujah! Do you believe it?
+
+```
+2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away.
+
+```
+**58** Contending for the faith. Sure, I'm a fundamentalist. I believe what the Bible said. Like the Baptist, the Methodist, and Presbyterian, Church of Christ and all them believes. But, brother, you're leaving out the real thing. You've got the thing laid out there in letter; that's right. But you haven't got the Spirit with it to quicken the letter. There's where it's at. So, church, that's why I take my stand today with the holy-roller, because it's the truth. Looky there. Why, Balak said, "Why, they're not even organized." Organized. That's what the people say today. "Well, I belong to the Methodist." "I belong to the Baptist." And the Pentecost, just as bad. Same thing. "I belong to the organization."
+
+**59** Let me tell you something right now. God never did fool with an organization. He never did, and never will. No, sir. Call any historian's attention right now. There never has been a church in all the ages that ever ... when they failed to see the power of God, and get the miracles, and things out of the church, God lays her on the shelf, and she never does revive again. He laid Luther there, Methodists there, Baptists there, Presbyterian there, and Pentecost is on it's road there, right now. But out of that conglomeration of the whole thing, God will raise up another undergrowth there, like He did when He said, "I will restore, saith the Lord."
+
+```
+Joel 2:25 And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpillar, and the palmerworm, my great army which I sent among you.
+
+```
+**60** I know you think we're an awful noisy bunch. Well, brother, I can prove to you if there ain't noisy, then there ain't no God there. Listen. In the Old Testament, when Aaron, anointed with the Rose of Sharon, and when he had the anointing oil that run down his beard to the hems of his skirt. He'd taken the sacrifice and he went in to the Holiest of holies. And when he went behind that curtain, across his garment he had a pomegranate and a bell---a pomegranate and a bell, so that they'd hit together. And when he walked, it played, "Holy, holy, holy unto the Lord." That's the anointed church of God moving into the Holiest of holies.
+
+```
+Exodus 28:34 A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.
+
+Exodus 39:26 A bell and a pomegranate, a bell and a pomegranate, round about the hem of the robe to minister in; as the LORD commanded Moses.
+
+Psalm 133:2 It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;
+
+```
+**61** And looky here, brother, the reason they did that, that was the only way they could tell that he was alive. They listened to hear if there was any noise. If there was no noise, he was dead. And that's what's today, a church that's borned-again, going into the Holiest of holies, anointed with God's pomegranate and bell. Hallelujah! Yes, sir. You know they're alive. A bell ringing, "Holy, holy, holy unto the Lord." The outsiders pass by, scoffers, say, "Look at them." That's all right. Look at them then. Hallelujah! How wonderful. "Holy, holy, holy unto the Lord!" played the bells against the pomegranates. Notice that Balaam back there; can't leave that guy yet. Look at him standing there. He was just as fundamental in his doctrine as they was down there, the same doctrine. But they did not have the signs and wonders. And this group had the signs and wonders; they had a divine healing program on. These guys didn't know nothing about it. If that ain't typical today, I don't know it.
+
+**62** They had a smitten rock. When they wanted water, they just went and drank. That's the way of the church today. When you get all kind of down in the spirit, you go to a good old-fashioned Holy Ghost meeting, the Rock's struck and away goes the water. Everybody begins to bump up-and-down, jump up-and-down, and bubble over. Sure. The smitten Rock's right amongst the people. That's right. The brass serpent is right amongst the people yet. Surely. God's requirement for divine judgment. The divine judgment of God was upon Christ. That rod that Moses had in his hand: That wasn't Moses' rod; that was God's judgment rod. And the rod hit the rock and there was a cleft in the rock. And when Israel wanted something to eat one day, they went by, and found honey in the rock. I've found it there too, haven't you?
+
+```
+Numbers 20:11 And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
+
+Deuteronomy 32:13 He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;
+
+```
+**63** When they got thirsty, they found water in the rock. Amen. He supplied everything they had need of, and He does yet today. There stood the fundamental group making fun of them. God spoke to him down there. And it's surely how today, like the hireling prophet of the day. They say, "Surely that bunch of people... A bunch of religious quacks, screaming, hollering, and carrying on. Well, surely, a holy, moral God would curse such a people." That's what Balaam thought. So, he goes down there to put a curse on the people. And he said, "How can I curse what God's blessed?" When he throwed out his curse, he found out there was a brass serpent there and a smitten rock to meet it. He failed to see that atonement going before the church.
+
+```
+Numbers 20:11 And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
+
+Numbers 22:12 And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed.
+
+```
+**64** And you say, "Well, now, brother, we believe in the atonement too. We believe." Sure, I know you believe. Cain believed too. But God confirmed Abel's belief when He accepted his sacrifice. And when you believe, that's fair enough. But if you believe and a true believer, God will give you the baptism of the Holy Ghost right then when you believe. Hallelujah! I feel religious right now. Notice, how glorious. There I notice then, when he got down there he said... "Now, you go back, but you say just exactly what I say," God told Balaam. Here went the prophet back, going to go back. When he went down there, instead of blessing Israel ... or, cursing Israel, he blessed Israel. He turned around and blessed them.
+
+**65** Why, he said he couldn't understand that, I guess. But notice, he blessed them because God had blessed them. And look what he said. "I have not beheld iniquity in Jacob." And he was looking from the side of the rock. God said, "I've seen him from the hilltops." Hallelujah! His church. His group. Why, they wasn't a nation. They wasn't organized like the rest of the people. They had organism, but no nation. He said, "The people will dwell among themselves. They will not be a nation." And that's the way of the church of God today, the called out group of people. It doesn't mean because you're Methodist, or it doesn't mean because you're a Pentecost. It means out of every group, God's calling people, giving them the Holy Ghost; and that's the church, the called-out. Certainly it is. He calls them out. They're not an organization; they're an organism. Their hearts are beating together. They're one in Christ Jesus. Hallelujah!
+
+```
+Numbers 23:21 He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them.
+
+```
+**66** Oh, he said, "Well, look at them, they're not even a nation. They're little old mission-trotters. Just a typical bunch of holy-rollers." That's right. Well, look at them. Well, here stood the princes, the bishop, the archbishop, all the great elders. How in the world God can move with this church today, I can't tell you. Look, the highest order in the Bible, for the church, the local church, is the elder. And the elder can't move until the bishop says. God has to come through the bishop, down through, oh, about fifteen different men before He can get to the elder.
+
+**67** But let me tell you, the church of God is led by the Spirit of God. They move as the Spirit moves them. God didn't promise just to move with bishops. Elders is what's the head of the church. Every church. Now, God sends a message, He'd send it to His elders. But if He has to go out and see what the bishop says and what the district presbyter says ... And everybody in the church is pulling to get a feather in your hat. "Maybe I can be the district man next year if I pull a few tricks here, a few there." Brother, I don't care about the district man, I want to be a Christian next year (Hallelujah!), contending for the faith that was once delivered to the saints.
+
+**68** Look. When that spirit come on down... It come into the days of Jesus. Here was Jesus. He was fundamental as they were. And they were just as fundamental as He was. But He had signs and wonders---believers---following Him. And they refused Him and rejected Him. And that same old spirit of Cain moving right down through. Religious. And now, notice, the Holy Spirit spoke that in the last days perilous times would come, men would be lovers of their own selves. "I'm Dr. So-and-so." "Lovers of their ... proud, boasters, blasphemers, disobedient, heady, highminded, lovers of pleasure more than lovers of God, trucebreakers, incontinent, and despisers of those that are good. Having a form of godliness," fundamentally, "but would deny the power thereof: from such turn away. For this is the sort that go from house to house and lead silly women."
+
+```
+2 Timothy 3:1 This know also, that in the last days perilous times shall come.
+
+2 Timothy 3:2 For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+
+2 Timothy 3:3 Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+
+2 Timothy 3:4 Traitors, heady, highminded, lovers of pleasures more than lovers of God;
+
+2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away.
+
+2 Timothy 3:6 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
+
+```
+**69** "Well, we have a stitch-and-sew party." Stitch-and-sew. Yeah, you stitch-and-sew, and sew-and-stitch, and stitch-and-sew and talk about Miss So-and-so and everything else. Why, it's a shame. What you need is an old-fashioned upper room, with a prayer meeting, where you pray down the power of God, and the Holy Ghost begins to move. That's what you need. Earnestly contending for the faith that was once delivered to the saints. What they did back there... They didn't have all these different things, and all this here societies, and this society, and that organization, and this organization. They were one in Christ Jesus. The Holy Ghost poured out His power upon them, and they went forth doing miracles and signs.
+
+```
+Jude 1:3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+
+```
+**70** Jesus, the last words He said, when He left the earth: "These signs shall follow them that believe." That's right. His first commission to His church. What was it? Matthew 10. "Heal the sick, cleanse the lepers, raise the dead. Freely as you receive, freely give." Or, "As God shows you, do what He said do." The last commission to the church was the same thing. And the last words that fell from His sacred lips as He was going up: "Go into all the world, and preach the Gospel to every creature. He that believeth and is baptized shall be saved; he that believeth not shall be damned. And these signs shall follow them that believe: in My name they shall cast out devils."
+
+```
+Matthew 10:8 Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.
+
+Mark 16:15 And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+
+Mark 16:16 He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
+Mark 16:17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+
+```
+**71** We say, "Oh, here's the sign of the believer: he goes to church, he's a good man, he pays his debts." That's fine. I have nothing to say about that. "He educates his children." That's dandy. I have nothing to say about that. But that's not the sign of a believer. Even to preach the Gospel is not the sign of a believer. Jesus said, "These signs follow the believer; In My name they cast out devils, they speak with new tongues; they take up serpents; and they drink deadly things, will not harm them; if they lay their hands on the sick, they shall recover." And today you do it, and they'll laugh at you. They got a form of godliness but denying the power thereof. Brother, I don't want to be Balaam, but I say like Balaam. When he come back and he seen what God had done to that bunch of holy-rollers, he said, "Let me die the death of the righteous, and let my last end be like his." Amen. I say the same thing.
+
+```
+Numbers 23:10 Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
+
+Mark 16:17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+
+Mark 16:18 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
+
+2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away.
+
+```
+**72** Call me holy-roller if you want to, but let me die the death of the righteous. Let my last end be as God's blessings as He blessed Jacob. Hallelujah! I know you think I'm excited; maybe I am. But I'm having an awful good time. You ought to get excited too. Amen. Little old woman down in New Albany had been crippled seventeen years, drawed up. I never knowed her in my life. The Holy Spirit told me where she was at. She was an Armenian. Her name is Mrs. O'Hannian. Mrs. Darrell O'Hannian. She was crippled up. And I walked in there. I seen her. She looked like a spider, drawed up in a bed.
+
+**73** Her young daughter, seventeen years old, Dorothy. They lived up there at 1900 Oak Street in New Albany. This has been years ago. And there I went by; I said, "Now, that's the house He showed me." I went down to the house. The girl come to the door. And I said, "How do you do?" And she said, "How do you do?" And I said... She looked at me real funny. Mr. Merle (you read it in my book) had been healed up there at the Saint Edward's Hospital. And it come out in the paper. Said, "Are you that man that went down and healed that man?" I said, "No, ma'am." I said, "Isn't there a lady here that's crippled up?" Said, "My mother."
+
+**74** Said, "Step in?" She was kind of backward. She was a young lady, about seventeen I guess. She had on her brother's shoes. She kind of stepped back to one side. And there laid this old woman. I said, "That's her. That's the one." I said, "Sister, what's that you're reading?" She said, "It's an Armenian Bible." I said, "Do you believe?" She said, "Ever since I seen the paper about that man being healed, I said, 'There's hopes for me.'" I said, "God has heard your prayer, and He sent me that I might pray with you."
+
+**75** And the woman jumped out of the bed, running around over the house, perfectly normal and well. Write to her, or go see her. Many of the people in the neighborhood heard the screaming; they thought there was a funeral service. It was. An old person died and one was born-again. All right. When she come out of there, they said, "She's excited. That's all. She just got excited and let the muscles down in her legs." About five years later, I was standing in the butcher shop; I seen her, through the glass, come in. She walked over with her husband. She touched me on that arm, and I acted like I didn't see her. I looked over this way. She touched me back here and I looked this other way. And she said, "I fooled you, didn't I?" And I said, "No." She said, "Brother Branham," said, "you remember a long time ago, and they told me I was excited?" I said, "Yes, ma'am." She said, "I'm still excited, because I'm still walking." Amen.
+
+**76** Then you better get excited. Brother, excitement don't heal the sick. The power of God is what heals the sick. Times: It's the evening lights are falling. Remember, it was Isaac that wanted a wife. When the father Abraham sent the servant out: A very beautiful type of God the Father sending out for His bride ... to get His bride. His Servant, the Holy Spirit, Eliezer. And it was in the cool of the evening when the beautiful Rebekah come out to water the camel. You know the story.
+
+```
+Genesis 24:15 And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
+
+Genesis 24:16 And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
+
+Genesis 24:17 And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.
+
+Genesis 24:18 And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.
+
+Genesis 24:19 And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking.
+
+```
+**77** And the beautiful Rebekah come out. And he said, "Now, ever who waters this camel," he said, "Lord, let that be the one You've chosen." And Rebekah went and watered the camel. And give him a drink. And then watered the animals. Look, the very animal that she was watering... The animal represents a beast, of course, a beast of burden, which means power in the Bible. And the very animal that she was watering was the very animal that packed her to see her bride. Is that right? And what is watering? The very power that we're watering now with praises, and thanksgiving, and glory, and power, and might, is the very Holy Spirit that will pack us up to see Jesus someday.
+
+```
+Genesis 24:14 And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
+
+```
+**78** Look. It was in the cool of the evening when Isaac walked out. Some people say, "What if you see Him and He is a real dark Jew. If He is this..." I don't care what He looks like, He is my Saviour. And when the bride sees Him, it will be love at the first sight. When Rebekah seen Isaac, she jumped off the camel, and run to meet him. It was love at the first sight. I tell you, when we see Him, it will be love at the first sight. Off we'll go, and away we'll go into His arms. Certainly. How beautiful. The bride, the evening light's coming. The faith that was once delivered to the saints, beginning to restore back to the church. The fig tree is putting forth its buds. She begin to move out. The evening light.
+
+```
+Genesis 24:64 And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.
+
+```
+**79** The very same Gospel that was preached on the day of Pentecost, the very signs that followed for thirty-some-odd years after that, down in the church, has returned back to the church again, falling right down to the end. Brother, let me tell you, you can call me holy-roller if you want to, you can say what you want to, but I see back yonder in Genesis where that great orthodox spirit started back there. Just as religious, just as pious as it could be. And I see where that thing in the last day has come down, all down through the Bible, where the... [Gap in the audio] ... " Having a form of godliness but will deny that power thereof." He said, "From such turn away." Get away from it. I'm glad today. I number myself with the holy-rollers. That's the reason that I believe today in the old-fashioned baptizing of the Holy Ghost with powers, and signs, and wonders. Hallelujah! It's the faith that was once delivered to the saints.
+
+```
+2 Timothy 3:5 Having a form of godliness, but denying the power thereof: from such turn away.
+
+```
+**80** Let me die the death of the righteous, and let my last end be as theirs. Look at that little remnant of people down through the age. Look at it wind its way through the pages of the Bible---that little church. Always rejected. Look at the other side. So close it would deceive the very elect. Just as fundamentally right. Just as perfect. Fine churches. Keeps the doctrine of the Bible, so-called. They'll do it. They'll go out there and they say, "Yes, sir. We believe in the birth of Jesus Christ. We believe that He was a virgin-born Son of God. We accept Him. We have faith in Him." That's good.
+
+**81** Why, brother, it's by faith you're saved. Is that right? But listen. In accepting of your faith, God confirms your faith by the baptism of the Holy Ghost. If you say you believe and you don't get the baptism of the Holy Ghost, then you do not ... your faith isn't accepted in the sight of God. You've got a mental faith instead of a heart faith. That's right. When you truly believe God, God's under obligation to pour the Holy Ghost on you. And then if He does pour the Holy Ghost on you... You say, "Well, I've got the Holy Ghost, too." Well, if you do, you're bound to believe in the supernatural signs and wonders, because you're added to it. It's the faith.
+
+**82** Then you say, "Oh, no. I don't believe in Divine healing. I don't believe in all that racket and carrying on; believe all that shouting, praising God, and cry--tears a running down your cheeks and things. I don't believe in all that, and I know there's no such thing as that." Shows you haven't got it. That's exactly right. It showed... Here was this man up here, Balaam, was just as fundamental, and just as right in his doctrine as Moses was. But Moses had healing and signs and--and a big Pillar of Fire hanging over him. Hallelujah. I hope you get that. All right. A Pillar of Fire hanging over him: signs, wonders, miracles, and everything going on, Divine healing, glories of God. Is that right? And the other side didn't have it, though they were just as fundamental as the others. Is that right? That's what it is today: having a form of godliness but denying the power thereof, from such turn away. That's what the Bible said. You believe it to be right? I believe it with all my heart. Now, look. Then he said, "Let me die the death of the righteous..." [Brother Branham stops as a model airplane noise interferes] Hey. See how the devil will do? Now, if you want to see the devil, look out there; he got in them men out there, and see them do such things as that. Now, if someone said, "Do you mean that was the devil?" What other thing would interfere God's Spirit but the devil? Certainly, a bunch of preachers turned them out there to do that (exactly), try to stop the meeting, but you can't stop God. God will move right on just the same. There's no more nothing, simply nothing can stop God, the power of God. Certainly. Certainly. Them same people, they don't repent, they'll lay in hell forever. In fact... You say, "You're judging." No, I'm not. "By their fruits you shall know them. That's right. That's exactly right. So, for... Watch today. We're contending for the faith that was once delivered to the saints. See? Now, have you got the message? Do you understand what I mean? That we believe. That's why.
+
+```
+Jude 1:3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
+
+```
+**83** And listen. Some of you fundamentalists here that don't know nothing about God, no more than what you know of the Scripture... If that's all the experience you got, I hope that you come to Jesus Christ, and receive the baptism of the Holy Ghost, before it's too late. Some day over yonder in another land, you will watch for this little old holy-roller preacher; and you will find out that I'm right. You will find out that we're earnestly contending for the faith that was once delivered to the saints. Do you believe it? Let's bow our heads then as we talk to Him. Heavenly Father, it's today that we are coming before You, in Your presence. Realizing this, that all powers in heavens and earth is given into Your hands. We know that Thou art here and a rewarder of those who diligently seek Thee. And, Lord God, we know that You have said in Your Scripture, "It would be far better that a millstone would be hanged at your neck and to drown in the depths of the sea than to offend the anointed of God."
+
+```
+Matthew 18:6 But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
+
+Mark 9:42 And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+
+Luke 17:2 It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.
+
+```
+**84** And now, Lord, Thou knowest all things. And I pray Thee, if there be someone here who doesn't know You in the baptism of the Holy Spirit, may they this very day find that faith that was once delivered to the saints. May they take their way with the Lord's despised few. Realizing as Paul said, "Pressing on to the high calling which is in Christ, you leave those things behind and press towards the mark of the high calling." Grant today, Lord, that these things will take place for Thy Glory.
+
+```
+Philippians 3:14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
+
+```
+**85** Now Father, I commit this all to You, ask You in... The greatest thing I've ever known in my life, is to commit something to You. Now, I commit it to You, Lord, that You'll bring Your people together, and will take the enemy from this--the midst of the people. And may the power of God have the right of way in every heart, for I ask it in Christ's Name. And with your heads bowed, if you will, just a moment. I wonder just now, how many people in here would say this: "Brother Branham, I truly--truly realize that we're living in the last days. I see the people in the Spirit of the last days. I see where they're having a form of godliness and ungodly people, think that their right, giving heed to seducing spirits and doctrines of devils. I want to receive the Holy Ghost, Brother Branham. I've never been borned again, though I belong to a fundamental church, or so forth, but as far as being borned again, I haven't received it. And I now want to accept Christ right now, and be filled with the Holy Ghost." Would you raise your hand? God bless you. Right in the midst of all of this devil's confusion and everything else, hundreds of hands are going up to receive the baptism of the Holy Ghost. Young men, young women, some of them, setting wiping their eyes with tears, right in the midst of confusion. Yet, there's nothing confused. And when God's power is moving into the hearts of the people... All right.
+
+**86** Do you realize this is the same kind of a spirit out here on this thing here that was upon them arenas that day to try to confuse the, down in Polycarp, and down in the days of all the martyrs? Do you know that's the same kind of a spirit that turned that fox loose that day where John Wesley was preaching Divine healing? You remember that? Where there's a big shrine built to him now, in London, England. The same Gospel that's being preached right now, is the same thing as being was preached then. The same devil lives today; the same God lives today. Those people today, that did that back there, if they could come forth to this building today they'd quickly accept Christ, if they could come out of the tortures of hell where they were at. Do you believe that?
+
+**87** Now, if you believe that God is here and you want to be remembered and be baptized with the Holy Spirit and take your way with God's despised few as it's been down through the age, always, and you say, "I want to contend for the faith that was once delivered to the saints, Brother Branham, I want to stand up now to accept my salvation. I want... I've been belonging to a church and I--or something another... I've-maybe belonged to some..." I don't mean for you to come out of your church, I mean for you to come out of your conditions. Go back with the baptism of the Holy Ghost, you may get the preacher converted, you may get the whole church converted.
+
+**88** Now, if you haven't received the baptism of the Holy Ghost, would you stand up to your feet just now? God bless you. God bless you. God bless you. God bless you, standing everywhere. Just remain standing, everywhere. Say, "Brother Branham, I will need salvation; I need His precious Spirit upon me. I want to take my stand today for Jesus Christ and what's right. I believe that I'm in His Presence." Stand, would you. There's many, many standing. Would someone else stand, say, "I want to take my way today." "Brother Branham..." God bless you, sir. God bless you all around, everywhere. Way over to my left, on the outside, standing on the hillsides, anyone say, "I'd like to take Christ," would you raise your hand? Just say, "I want to take Christ." Over to my right: God bless you, young lady, I see standing in the back. Over to my right, on a hillside, anyone there that would like to accept Christ? Anybody back to my left, here, out on the hillside, say, "I want to accept Christ as my Saviour. I don't..." God bless you, sir, I see you standing back there, crowd of people on the hill. Somebody over in there, some others, say, "I want to accept Christ right now, Brother Branham. I want to be remembered in prayer at this time."
+
+**89** They took down our prayer tent but we can't invite you to the prayer tent; we don't have it, but we can stand right here and God give us the baptism of the Holy Spirit right where you're standing. Would you stand to your feet and say, "I want--I want to be remembered right now, Brother Branham. I want to be one that contends for the faith that was once delivered to the saints. I want to take my stand today, as a Christian, against the things that's wrong and stand for that what's right. All right. Now, remember, we've had some, maybe several hundreds of them this week, coming across the places here and going into the prayer tent. Many of them's filled with the Holy Ghost, saved from sin and so forth. And today, here's that, oh, maybe a hundred people, right on. Sixty, seventy maybe unsaved, at least that, standing around at different places. If... I can't tell what's in the back; there's a bunch of people standing, but they're way back, some on the hillsides. But right now, Jesus Christ is here to fill every believer with the Holy Spirit, save every lost soul, reclaim every backslider. Do you believe that?
+
+**90** While we bow our heads now. Each one of you standing now, let every believer here bow his head. Let's pray. O Lord, I thank Thee for Thy goodness and mercy. Thank Thee for the Holy Spirit. I pray, God, that Your mercy will be upon each one. Have mercy, Lord, upon these who are so in need. They're standing. They're like of old. They're willing to step out in the midst of the people and claim Jesus Christ as their Saviour and--and beli'll--believe that He will baptize them with the Holy Spirit in confirmation of their faith. Many of them, Lord, has been living around in these churches who didn't go into the Gospel deep enough, they've been taught, and they wondered why these things didn't happen if they happened back in the Old Testament, happened back in the New Testament, why don't they happen today if we're serving the same God? And now, today, Lord, they realize that they have been misled in these things. And they've stood here by the many around the different places in the church and on the outside, and they're believing that You're now going to fill them with the Holy Spirit. I pray, God, with all my heart, with all my soul and mind, that You'll fill every one of them with Holy Ghost. May the--everyone's sins be forgiven and may the Holy Spirit have supreme right of way in their hearts this day. For we ask it in Jesus Christ's Name.
+
+**91** Now, while we're here, remain standing. I want the rest of you stand by their sides now. You stand right up, every person, every believer. How marvelous what our heavenly Father can do to this audience at this time. All things are possible, only believe. Only have faith in God. I believe God will grant it to you, don't you? You out on the hills, and different ones that God seen you when you raised your hands, how many of you now accepts Christ as the... [Gap in the audio] You're all sufficient... [Gap in the audio] with the riches of Thy blessings may rest upon this people and may they go from here this day filled with the Holy Ghost. May they live from hereafter, Lord, filled with Your Spirit. May they never forget this that they're contending for the faith that was once delivered to the saints. We pray, God, that the Holy Ghost will have the right of way in every heart, right now. And may He fall like a rushing mighty wind, sweep over the building. Send Him now, Lord. I pray that You'll get victory, pour out... You... We... Said, "We're a high priests, offering spiritual sacrifices; the fruits of our lips a giving praise to God." And may every believer now as a sacrifice of the high priest, enter into the praises of God, shouting, glorifying God and praise Him. I ask this in Jesus Christ's Name. Amen. And the people praise God with all their hearts and give glory to God.
