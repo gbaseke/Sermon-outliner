@@ -110,6 +110,7 @@ Use this exact structure for every sermon outline you produce:
 
 ```
 # [SERMON TITLE]
+**Alternate title(s):**
 
 **Scripture(s):** | **Theme:** | **Prepared:**
 
