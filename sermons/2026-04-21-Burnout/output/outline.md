@@ -354,3 +354,242 @@ Leviticus 26:34-35 had warned this explicitly: if they disobeyed, the land would
 67 Now, our faith cannot rest upon nothing, a Christian has to have, his faith has to have a solid resting place, you know that. And the only resting place that a Christian, a true, borned-again Christian can rest his faith, or hers, is upon the unmovable Word of God. It isn’t built upon the shifting sands of men’s theology and—and doctrines, and upon some church affiliation, but a true believer, his faith, it rests solidly, unshifting as he approaches the Word of God. 68 I was saying somewhere, maybe here, a few nights ago, I wanted to preach so bad, I preached to my wife in bed till twelve o’clock, just telling her of how glorious Jesus was. A text come in my heart, it kept burning me so great, till I just couldn’t rest with it, and I just said, “Honey, I want to preach to you a little while.” And she roused up, by grace she listened. 69 I said, “The Christian faith is based solidly upon rest.” That’s right. A Christian is not tossed about, a Christian doesn’t run from place to place, a Christian doesn’t fuss and fume, and worry about things, a Christian rests, it’s all over, it was all finished for the believer at Calvary. That’s right. Oh, sickness may come and disappointments, but the Christian is at rest, knowing this: that God is able to keep that which He has performed. Knowing that no matter what the thing is and how it looks, there is neither sickness, sorrow, death, there is neither starvation or anything that can separate us from the love of God that’s in Jesus Christ. We’re at rest, just let the old ship toss any way she wants to, the anchor holds. 70 I come by a harbor one time and seen that, we was flying in a plane, there was a great, coming down low, there was a big ol’ ship there, the sails had been let down, you know. And, oh, what a storm on the sea! My, she was tossing. And I seen that old ship setting there, rocking back and forth, and some waves it would go in, and some waves it would go under, and everything, I said, “Wonder why that is.” 71 And a fellow sitting, said, “It’s got a sea anchor on it, therefore,” said, “the ship can’t sink.” Said, “It can go through the wave, but it can’t sink,” said, “because it’s anchored.” I said, “Oh, praise be to God!” 72 We got an Anchor! Some waves we can go over, some we go under, but, regardless, the, if the Anchor holds! It isn’t the ship doing the holding, it’s the anchor doing the holding. It isn’t what I am, or what I will be, or what I was, it’s what He is now, and what He did for me and you; it ain’t what I can do, it’s what He has done. 73 My faith doesn’t anchor in what the coming meetings will be, my faith doesn’t rest in only any ability that I would have, or upon what church I should join, or what people I should associate with, my faith anchors and rests, entirely, upon the finished work of the Lord Jesus Christ, already been received. 74 God justified Him by raising Him from the dead. “This is my beloved Son in Whom I am well pleased.” And God raised Him up from the dead for our justification. No wonder the poet said: Living, He loved me; dying, He saved me; Buried, He carried my sins far away; Rising, He justified freely forever: Someday He’s coming—oh, glorious day! 75 The Christian rests in that hope. Upon the stormy sea there, sure storms rise, all kinds of troubles, but we’re anchored, that’s all; it’ll never sink, it can’t sink.
    56-0101 - Why Are People So Tossed About?
    Rev. William Marrion Branham
+
+---
+
+- **Moses Burnout**
+ # Numbers 11 (KJV) — Was Moses Experiencing Burnout?
+
+  **Short answer: Yes — and a severe case of it.**                                                                      
+  ---                                                                                                                   
+  ## The Evidence for Burnout
+
+  ### What was happening (vv. 1–9)
+  The Israelites were complaining — again. They wept for meat, fish, cucumbers, garlic, and onions
+  from Egypt. The entire camp was in an uproar, weeping at the doors of their tents. Moses was
+  surrounded by mass discontent with no relief in sight.
+
+  ### Moses' own words (vv. 11–15)
+  These are the diagnostic verses:
+
+  > *"Wherefore hast thou afflicted thy servant? ...have I conceived all this people? have I begotten
+  > them?...I am not able to bear all this people alone, because it is **too heavy for me**. And if
+  > thou deal thus with me, **kill me, I pray thee**, out of hand...let me not see my wretchedness."*
+
+  That is not a man who is coping.
+
+  ---
+
+  ## Stage of Burnout
+
+  Using the **Freudenberger & North 12-Stage Burnout Model**, Moses was clearly at **Stage 11–12**:
+
+  | Stage | Description | Moses' Indicators |
+  |---|---|---|
+  | 1–4 | Compulsion, overwork, neglecting self | Implied from prior chapters — sole mediator, judge, leader |
+  | 5–7 | Values shift, denial, withdrawal | Moses stopped advocating; just absorbing complaints |
+  | 8–9 | Behavioral changes, depersonalization | *"Have I conceived these people?"* — distancing, detachment from
+  identity with the people |
+  | 10 | Inner emptiness | *"Wherefore hast thou afflicted thy servant?"* — loss of meaning |
+  | **11** | **Depression** | Expressing hopelessness, no longer seeing a way forward |
+  | **12** | **Full burnout / suicidal ideation** | *"Kill me...out of hand"* — a direct request to die |
+
+  Moses was oscillating between **stages 11 and 12** — clinical depression with a passive death wish.
+  He had lost the will to continue and saw death as preferable to his circumstances.
+
+  Using **Maslach's three burnout dimensions**, all three were present:
+
+  - **Emotional exhaustion** — *"it is too heavy for me"*
+  - **Depersonalization** — *"Have I begotten them? that thou shouldest say unto me, Carry them in
+    thy bosom"* — detached, alienated from the people he led
+  - **Reduced personal efficacy** — *"I am not able to bear all this people alone"*
+
+  ---
+
+  ## What Was Done About It
+
+  God's response in vv. 16–17 is a remarkably practical intervention:
+
+  > *"Gather unto me **seventy men** of the elders of Israel...and I will take of the spirit which is
+  > upon thee, and will put it upon them; and **they shall bear the burden of the people with thee,
+  > that thou bear it not thyself alone**."*
+
+  The remedy had three components:
+
+  1. **Delegation** — 70 elders were appointed to share the leadership load. The single point of
+     failure was eliminated.
+  2. **Distributed authority** — God explicitly transferred Moses' spirit/capacity to others. Moses
+     was not just offloading tasks; he was offloading accountability and spiritual authority.
+  3. **God directly acknowledged the burden** — Before fixing anything, God heard Moses out. The
+     complaint was not dismissed. Moses was not told to push through. His pain was validated.
+
+  ---
+
+  ## Takeaway
+
+  Numbers 11 is one of the earliest and clearest documented cases of leadership burnout in recorded
+  history. The root cause was **unsustainable sole responsibility** over a large, demanding population
+  with no support structure. The solution was not rest alone — it was **structural change**: shared
+  leadership, distributed responsibility, and a system that did not depend on one person absorbing
+  everything.
+
+  The model God used here — identify the load, distribute it, empower others — is essentially what
+  modern organisational psychology calls **delegation and distributed leadership**.
+
+---
+
+ # 1 Kings 19 (KJV) — Elijah and Burnout
+
+  **Short answer: Yes — textbook burnout, and arguably more acute than Moses'.**
+                                                                                                                          ---
+                                                                                                                          ## Context: What Led to the Collapse (v. 1 setting up from ch. 18)
+
+  Elijah had just come off the highest-stakes spiritual confrontation in his ministry — the Mount
+  Carmel showdown against 450 prophets of Baal. He called down fire, executed the prophets, and
+  ended a three-year drought. A massive, draining victory. Then Jezebel sent one message threatening
+  his life, and he completely fell apart. This is a classic post-peak crash — the body and mind
+  collapse *after* the adrenaline is spent.
+
+  ---
+
+  ## The Evidence for Burnout
+
+  ### Flight and isolation (vv. 3–4)
+  > *"And when he saw that, he arose, and went for his life...and came and sat down under a juniper
+  > tree: and he requested for himself that he might die."*
+
+  He fled alone. He left his servant behind. He went into the wilderness by himself — classic
+  withdrawal behaviour.
+
+  ### The death wish (v. 4)
+  > *"It is enough; now, O LORD, take away my life; for I am not better than my fathers."*
+
+  Passive suicidal ideation — not a plan, but a genuine desire to stop existing. He no longer saw
+  value in his own life or continuity in his purpose.
+
+  ### Physical collapse (v. 5)
+  > *"And as he lay and slept under a juniper tree..."*
+
+  He did not rest. He collapsed. Hypersomnia — excessive sleep as an escape — is a recognised
+  symptom of clinical burnout and depression.
+
+  ### Cognitive distortion — the isolation lie (v. 10, repeated in v. 14)
+  > *"I, even I only, am left; and they seek my life, to take it away."*
+
+  He believed he was completely alone. There were in fact **7,000 others** (v. 18) who had not
+  bowed to Baal. His perception was entirely distorted by exhaustion. He said this *twice* — word
+  for word — suggesting it was a deeply entrenched belief, not a passing thought.
+
+  ### Hiding (v. 9)
+  > *"And he came thither unto a cave, and lodged there."*
+
+  He was not passing through. He lodged in a cave — concealment, retreat, disengagement from
+  his calling.
+
+  ---
+
+  ## Stage of Burnout
+
+  Using the **Freudenberger & North 12-Stage Model**:
+
+  | Stage | Description | Elijah's Indicators |
+  |---|---|---|
+  | 1–4 | Compulsion, overwork, neglecting self | Years of solitary prophetic ministry, confrontational calling |
+  | 5–7 | Values shift, denial, withdrawal | Post-Carmel flight; abandoned his servant; abandoned his post |
+  | 8–9 | Behavioral changes, depersonalization | Fled the very victory he had just won; irrational fear after boldness
+  |
+  | 10 | Inner emptiness | *"I am not better than my fathers"* — loss of identity and worth |
+  | **11** | **Depression** | Passive death wish, hypersomnia, isolation, hopelessness |
+  | **12** | **Full burnout syndrome** | Complete withdrawal from mission; hiding in a cave; repeated despair |
+
+  Elijah reached **Stage 12** — full burnout collapse. Unlike Moses who was still functioning (if
+  barely), Elijah had **stopped functioning entirely**.
+
+  Using **Maslach's three burnout dimensions**:
+
+  - **Emotional exhaustion** — drained after Carmel; one threat broke him completely
+  - **Depersonalization** — disconnected from the people he was called to serve; fled them
+  - **Reduced personal efficacy** — *"I am not better than my fathers"* — complete loss of
+    confidence in his own value or contribution
+
+  ---
+
+  ## What Was Done About It
+
+  God's response in 1 Kings 19 is one of the most pastorally intelligent interventions in Scripture.
+  Notably, God did **not** rebuke him, preach at him, or tell him to get back to work.
+
+  ### Step 1 — Physical restoration before anything else (vv. 5–8)
+  An angel woke him, and the first words were not theological:
+
+  > *"Arise and eat."*
+
+  Food and water. Rest. Then food and water again. Twice. God addressed the **body first**. This
+  is significant — no spiritual correction, no vision, no assignment. Just sleep and a meal.
+
+  > *"The journey is too great for thee."*
+
+  God acknowledged the weight of what Elijah was carrying. The burnout was real. It was validated,
+  not dismissed.
+
+  ### Step 2 — Safe space to speak (vv. 9, 13)
+  God asked the same question twice:
+
+  > *"What doest thou here, Elijah?"*
+
+  Not an accusation. An invitation. Elijah was given room to voice his pain — both times — before
+  God responded to it. The repetition of the question after the theophany (wind, earthquake, fire)
+  suggests God wanted Elijah to hear himself, not just vent once.
+
+  ### Step 3 — The still small voice, not spectacle (vv. 11–12)
+  God was not in the wind, earthquake, or fire. He came in a **still small voice**. A burned-out
+  person cannot receive a loud, overwhelming God. The mode of communication was calibrated to
+  Elijah's state.
+
+  ### Step 4 — Renewed purpose and practical next steps (vv. 15–16)
+  > *"Go, return on thy way...anoint Hazael...anoint Jehu...anoint Elisha."*
+
+  A clear, actionable mission was restored. Not everything at once — three specific tasks. Purpose
+  is one of the most powerful antidotes to burnout-driven meaninglessness.
+
+  ### Step 5 — Community restored (v. 18)
+  > *"Yet I have left me seven thousand in Israel, which have not bowed unto Baal."*
+
+  The isolation lie was corrected with fact. Elijah was not alone. He had never been alone.
+
+  ### Step 6 — A successor / companion (vv. 19–21)
+  Elisha was appointed and immediately joined him. Elijah would no longer carry the prophetic
+  burden alone. Like Moses receiving the 70 elders, Elijah received a companion and eventual
+  successor.
+
+  ---
+
+  ## Moses vs. Elijah — A Comparison
+
+  | Factor | Moses (Numbers 11) | Elijah (1 Kings 19) |
+  |---|---|---|
+  | Trigger | Sustained overload, relentless complaints | Post-victory crash, single threat |
+  | Primary symptom | Overwhelm, despair, death wish | Collapse, flight, isolation, death wish |
+  | Burnout stage | 11–12 | 12 (full collapse) |
+  | Physical state | Depleted but still standing | Physically collapsed, needed to be woken |
+  | Cognitive distortion | "I alone must carry this" | "I alone am left" |
+  | God's first response | Listened to the complaint | Fed him and let him sleep |
+  | Structural fix | 70 elders (delegation) | Elisha (companion/successor) |
+  | Personal fix | Burden shared | Purpose restored, isolation corrected |
+
+  ---
+
+  ## Takeaway
+
+  Where Numbers 11 shows **organisational burnout** (a leader crushed by unsustainable structure),
+  1 Kings 19 shows **personal burnout** (a high-performer destroyed by the gap between the cost of
+  the work and their human limits).
+
+  God's response to Elijah is a masterclass in burnout recovery:
+  1. **Physical needs before spiritual demands**
+  2. **Validation before correction**
+  3. **Gentleness calibrated to capacity**
+  4. **Purpose restored in manageable pieces**
+  5. **Community over isolation**
+
+  The cave was not a place of shame. It was a place of recovery — and God met him there.
