@@ -593,3 +593,180 @@ Leviticus 26:34-35 had warned this explicitly: if they disobeyed, the land would
   5. **Community over isolation**
 
   The cave was not a place of shame. It was a place of recovery — and God met him there.
+
+  ---
+
+  # Revelation 3:14–22 (KJV) — The Laodicean Conditions That Breed Burnout
+
+  **The letter to Laodicea does not describe a persecuted or overworked church. It describes a
+  church exhausted by the wrong things — and not even aware of it.**                                                    
+  ---                                                                                                                   
+  ## Historical Context (Why This Matters)
+
+  Laodicea was one of the wealthiest cities in Asia Minor:
+  - A major **banking and financial centre**
+  - Famous for its **black wool textile industry**
+  - Home to a renowned **medical school**, known especially for producing eye salve
+  - Rebuilt entirely with **their own money** after a major earthquake in 60 AD — refusing
+    Roman imperial aid
+
+  When Jesus addresses them, every metaphor is a direct reference to what they were most
+  proud of. That is intentional. Their burnout was embedded in their identity.
+
+  ---
+
+  ## The Burnout-Generating Conditions
+
+  ### 1. Lukewarmness — The Exhaustion of Performing Without Believing (v. 15–16)
+  > *"I know thy works, that thou art neither cold nor hot...So then because thou art
+  > lukewarm...I will spue thee out of my mouth."*
+
+  Lukewarmness is not laziness. It is the chronic low-grade exhaustion of going through the
+  motions — showing up, doing the activities, maintaining the appearance — without genuine
+  conviction or passion driving it. It is performative religion.
+
+  This is one of the most draining states a person can sustain. Cold is honest. Hot is alive.
+  Lukewarm is the energy cost of pretending — indefinitely.
+
+  **Burnout mechanism:** Sustained effort without internal motivation produces depletion
+  without reward. The work costs the same but returns nothing.
+
+  ---
+
+  ### 2. Self-Sufficiency — Cutting Off Every Support System (v. 17a)
+  > *"thou sayest, I am rich, and increased with goods, and have need of nothing."*
+
+  This is the Laodicean institutional posture: **we need no one**. They had already
+  demonstrated this in refusing Roman aid after the earthquake. They made it a point of
+  pride.
+
+  But "need of nothing" means no dependence, no community, no vulnerability, no asking for
+  help. It severs every support structure that prevents burnout. Moses burned out
+  because he carried everything alone. The Laodiceans turned that posture into a value
+  system and called it strength.
+
+  **Burnout mechanism:** Refusing to acknowledge need means refusing the very things —
+  rest, community, help, honest feedback — that restore capacity.
+
+  ---
+
+  ### 3. The Gap Between Self-Image and Reality (v. 17)
+  > *"thou sayest, I am rich...and knowest not that thou art wretched, and miserable,
+  > and poor, and blind, and naked."*
+
+  There are five words stacked against their self-assessment: **wretched, miserable, poor,
+  blind, naked**. Five. Against their one: *rich*.
+
+  Maintaining a false self-image is cognitively and emotionally expensive. The energy
+  required to sustain the narrative — "we are fine, we are successful, we are sufficient" —
+  while the internal reality tells a different story, creates a constant low-level internal
+  conflict. This is the double life of institutional denial.
+
+  **Burnout mechanism:** Self-deception is not free. The gap between projected reality and
+  lived reality must be managed constantly. Over time, that management cost destroys the
+  person or institution carrying it.
+
+  ---
+
+  ### 4. Identity Built on Material Achievement (v. 17–18)
+  > *"thou sayest, I am rich, and increased with goods...buy of me gold tried in the fire,
+  > that thou mayest be rich."*
+
+  Laodicea's sense of worth was entirely tied to material accumulation. When your identity
+  is anchored to achievement and wealth, there is no finish line. There is no point at which
+  you have done enough, earned enough, proven enough. The treadmill does not stop.
+
+  This is a **structural burnout factory**: a value system that sets an unreachable standard
+  and measures worth against it continuously.
+
+  **Burnout mechanism:** Purpose built on accumulation has no natural ceiling. The goalpost
+  moves. Exhaustion is the only destination.
+
+  ---
+
+  ### 5. Spiritual Blindness — No Self-Awareness of the Problem (v. 18)
+  > *"anoint thine eyes with eyesalve, that thou mayest see."*
+
+  This is the cruellest irony — Laodicea was famous for producing eye salve. They had
+  the cure but could not see they needed it.
+
+  A person or institution that cannot accurately diagnose its own condition cannot address
+  it. They could not see their own depletion. They would not have identified as burned out.
+  They would have said they were thriving. This is burnout in its most dangerous form —
+  unrecognised, unnamed, therefore untreated.
+
+  **Burnout mechanism:** Lack of self-awareness prevents intervention. You cannot recover
+  from what you refuse to see.
+
+  ---
+
+  ### 6. Nakedness Behind Wealth — External Performance Hiding Internal Poverty (v. 17–18)
+  > *"knowest not that thou art...naked...buy of me white raiment, that thou mayest be
+  > clothed, and that the shame of thy nakedness do not appear."*
+
+  Laodicea was famous for black wool clothing — it was their economic signature. Yet Jesus
+  says they are naked. They were clothing others while spiritually exposed themselves.
+
+  Maintaining an external presentation of abundance while internally experiencing poverty
+  is exhausting. The greater the gap between the public image and the private reality, the
+  higher the cost of maintaining appearances.
+
+  **Burnout mechanism:** Presentational labour — performing health, success, and sufficiency
+  for others — is one of the most depleting forms of chronic stress.
+
+  ---
+
+  ### 7. Christ Outside the Church — Activity Disconnected from Source (v. 20)
+  > *"Behold, I stand at the door, and knock: if any man hear my voice, and open the door,
+  > I will come in to him."*
+
+  This is the most striking image in the letter. Jesus is **outside** the church — knocking
+  to get back in. The church is running, functioning, doing its activities, maintaining its
+  identity — without the presence of the one who gives any of it meaning.
+
+  This is the deepest structural cause of burnout: **effort without source**. Work without
+  the animating life that makes the work sustainable. Religious activity as an end in itself,
+  rather than as an expression of a living relationship.
+
+  **Burnout mechanism:** Any system that runs on output without replenishment will eventually
+  collapse. When the source of life is excluded from the centre, everything draws from a
+  reserve that is never refilled.
+
+  ---
+
+  ## Summary Table
+
+  | Laodicean Condition | Burnout Mechanism |
+  |---|---|
+  | Lukewarmness | Sustained performance without genuine conviction |
+  | "Need of nothing" | Self-sufficiency severs every support and restoration system |
+  | Gap between self-image and reality | Maintaining self-deception costs constant energy |
+  | Identity anchored to material achievement | No finish line; treadmill with no off switch |
+  | Spiritual blindness | Cannot diagnose or treat what they cannot see |
+  | Nakedness behind wealth | Presentational labour — performing health while internally depleted |
+  | Christ outside the door | Effort permanently disconnected from its source |
+
+  ---
+
+  ## The Offer in the Middle of It All (vv. 18–20)
+
+  Jesus does not abandon the diagnosis with condemnation. He offers:
+
+  - **Gold tried in fire** — refined, tested character over performative success
+  - **White raiment** — genuine covering over presented image
+  - **Eye salve** — the ability to see truly, including seeing yourself
+  - **His own presence** — *"I will come in to him, and will sup with him"*
+
+  The antidote to every Laodicean burnout condition is the same: **stop performing and
+  start receiving.** Open the door. Let the source back in.
+
+  ---
+
+  ## Takeaway
+
+  Laodicea represents a **prosperity burnout** — the kind that does not look like burnout
+  from the outside. No visible suffering. No obvious crisis. Just a slow, comfortable
+  drift into depletion disguised as success. The dangerous kind, because no one calls
+  for help when they believe they have need of nothing.
+
+  The church that looks the most self-sufficient is often the one closest to collapse.
