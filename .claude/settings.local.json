@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(uv run:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "PowerShell(uv run python main.py search \"vials of wrath\" 2>&1)",
+      "PowerShell(uv run python main.py search \"seven vials\" 2>&1)"
     ]
   }
 }
