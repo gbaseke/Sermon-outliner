@@ -31,6 +31,9 @@ William Branham consistently taught that the vials are not for the Bride. They f
 
 The sea of glass is a central image in Revelation 15. Branham identifies it as the heavenly antitype of the brazen laver in the tabernacle of Moses — the place of washing and preparation. In Revelation 4 it appears as clear as crystal, representing the redeemed church already standing before God, washed by the water of the Word.
 
+**Revelation 4:6** - 
+6 And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
+
 > "Now we're at the laver. And notice, this laver was empty and was as clear as crystal. Why? The church had already been redeemed! Now, now we notice a little later on, though, when the tribulation saints comes up, we find it again full of fire."
 > — *1961-01-08, Revelation Chapter 4c: Throne of Mercy and Judgement, ¶82*
 
