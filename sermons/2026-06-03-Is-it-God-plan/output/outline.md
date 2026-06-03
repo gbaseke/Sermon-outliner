@@ -68,7 +68,7 @@ Picture Judah by the rivers of Babylon. Their city is broken, the temple gone, t
 > "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place." — Jeremiah 29:10
 
 **The type unfolds:**
-Notice — God set the captivity (seventy years), and God set the return. The same hand that allowed Babylon set the limit of Babylon. Why was Israel carried captive? For breaking the covenant. When? In stages under Nebuchadnezzar, climaxing in Zedekiah's day. When did they return? When the seventy years were "accomplished," exactly as the prophet said. The plan had a beginning, a measured middle, and a promised end. So does the Bride's journey out of Babylon: a falling away, a calling out, and a sure restoration.
+Notice — God set the captivity (seventy years), and God set the return. The same hand that allowed Babylon set the limit of Babylon. Why was Israel carried captive? For breaking the covenant. When? In stages under Nebuchadnezzar, climaxing in Zedekiah's day. When did they return? When the seventy years were "accomplished," exactly as the prophet said. The plan had a beginning, a measured middle, and a promised end. So does the Church's journey out of Babylon: a falling away, a calling out, and a sure restoration.
 
 **From the Message:**
 > "And He promised that He would return and bring the people, from scattered all over the earth after those seven years, back into Jerusalem where they left from; and He did it just that way. That's right."
@@ -237,3 +237,107 @@ Bride, the rapture is not for the casual; it is for the desperate — those who,
 - **Predestinated cannot finally fall away:** "Will any that are not predestinated accept the Lord? If they do, will they fall away? Not if they're predestinated, no. They couldn't." — *1963-03-24 · Seals 9: Q&A on the Seals · ¶138* (assurance for the elect against the seducing spirit)
 - **Desperation theme (the very text):** "it takes a state of emergency to throw us into desperation... in desperation it brings out that real thing that you are." — *1963-09-01 · Desperations · ¶33* (alternate framing if preaching the urgency angle)
 - **Confirmed:** Scripture is Jeremiah 29:1-11.
+
+## 1 King 13
+1 Kings 13 — Summary, Lessons & Applications
+
+  The Story
+
+  A unnamed man of God from Judah is sent by God to Bethel to prophesy against Jeroboam's false altar. He delivers the
+  word boldly, even when Jeroboam stretches out his hand to arrest him and it withers. God vindicates him with a sign.
+  Jeroboam invites him home to eat and be rewarded — the man of God refuses, saying God specifically commanded him: eat
+  no bread, drink no water, return not by the same way.
+
+  An old prophet in Bethel hears what happened. He rides after the man of God and says: "I am a prophet also... an angel
+  told me to bring you back to eat." It was a lie. The man of God believed him, turned back, ate and drank. On his way
+  home a lion killed him — yet left his body untouched, standing over it as a sign.
+
+  The old prophet buried him and mourned, saying: "It is the man of God, who was disobedient unto the word of the LORD."
+
+  ---
+  Life Lessons
+
+  1. Your assignment comes with specific instructions — honour them exactly.
+  God told the man of God not just what to do but how to leave. Partial obedience is disobedience. The route home
+  matters as much as the mission itself.
+
+  2. A fresh "word" that contradicts your last word from God is not from God.
+  The man of God had a clear, direct word. The old prophet brought a competing word dressed in prophetic authority. The
+  rule: a new voice cannot override a word God already gave you — especially when it's convenient and flattering.
+
+  3. The devil uses prophets, not just obvious sinners, to pull you off course.
+  The seducing voice came from inside the faith community — from someone who knew the language, had a track record, and
+  looked legitimate. This is the wolf in sheep's clothing dynamic your notes flag.
+
+  4. The sincerity of the messenger does not validate the message.
+  We don't know the old prophet's motive — possibly jealousy, curiosity, or self-justification. But his sincerity or
+  prophetic office didn't make his lie true. Try the spirits, not the credentials.
+
+  5. Disobedience has consequences even when you were deceived.
+  The man of God was lied to, yet still paid the price. This is sobering: God holds us responsible to test every voice
+  against His already-revealed Word. Deception is not an automatic excuse — it is a warning to be more anchored, not
+  less.
+
+  6. The old prophet mourned what he caused.
+  After the man of God died, the old prophet wept and honoured him — "he cried yet for his sons after him, Lay my bones
+  beside his bones." Even the deceiver recognized the man of God's true calling. What a tragic irony: the man who pulled
+  him off the Word ended up honouring his bones.
+
+  ---
+  Applications for Your Sermon
+
+  This type fits perfectly into Point 2 of your outline — the seducing voice always comes dressed in something familiar
+  and spiritual. The false prophets in Jeremiah's day were not pagans; they were claiming to speak for Jehovah. The
+  three frog spirits (Rev 16:13) come out of the mouth — they come as words, prophecies, "new light." The test is always
+  the same: does this agree with the Word God already gave you?
+
+  The takeaway for the Bride: settle your word before you leave home — so when a voice meets you on the road, you
+  already know the answer.
+
+  ## three unclean spirits like frogs 
+
+   What the Message Says — Rev 16:13
+
+  1. Their timing — between the Sixth and Seventh Vial
+
+  ▎ "This is the sounding between the Sixth and Seventh Vial... three unclean spirits like frogs went out..."
+  ▎ — Anointed Ones at the End Time, 1965-07-25, ¶170
+
+  They are released in the very last moment of time, just before the end. This is where the Bride currently lives.
+
+  ---
+  2. What the frog symbolises — always looking backward
+
+  ▎ "A frog is an animal that always looks backward. He never looks where he's going; he looks where he's come from."
+  ▎ — Anointed Ones at the End Time, ¶172
+
+  And then he lands the identification: they look back to the Nicaea Council, where the trinity doctrine was born — not
+  in the Bible. The frog spirit is the spirit of traditionalism — anchored to a council, not to the Word.
+
+  ---
+  3. What they are — a false trinity against the true revelation
+
+  ▎ "A false trinity was rising... But when the seven seals were opened... that's when the frogs, three unclean spirits
+  ▎ like frogs, came out to manifest themselves: a trinity doctrine against the truth."
+  ▎ — Anointed Ones at the End Time, ¶174
+
+  The three spirits come out of the mouth of the dragon (Rome's political power), the beast (Rome's religious power),
+  and the false prophet (the first pope / organized religion). They are three stages of the same antichrist spirit, now
+  fully manifested.
+
+  ---
+  4. Their mission — gather the world to battle against the Word
+
+  ▎ "...went out to the kings of the earth, to gather them together to the battle."
+  ▎ — Anointed Ones at the End Time, ¶170
+
+  They are not just a theological error — they are a gathering force. They draw men, churches, and nations into
+  alignment against the revealed Word of God in the last days.
+
+  ---
+  Bottom Line for Your Sermon
+
+  The three frogs are the end-time expression of the same seducing spirit that plagued Jeremiah's captives — voices
+  coming out of a religious mouth, always pointing backward to tradition rather than forward to the revealed Word. They
+  speak, they sound prophetic, they carry authority. But the test is always: does it look forward to the promise, or
+  backward to the council?
