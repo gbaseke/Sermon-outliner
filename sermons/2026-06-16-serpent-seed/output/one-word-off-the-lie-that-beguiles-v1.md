@@ -74,6 +74,14 @@ Notice Eve does not say, "The serpent forced me," or "The serpent overpowered me
 > "And there he was. And when he did, God said, begin to call for Eve and Adam. And he said, \"I was naked.\" And He said, \"Who told you you was naked?\" Then they begin to--in army fashion, passing the buck. Said, \"Well, the woman You gave me done it. She was the one who persuaded me.\" And she said, \"The serpent give me an apple.\" All right, preacher, get next to yourself. She said, \"The serpent beguiled me.\" Do you know what \"beguile\" means? Means \"defiled.\" The... The devil never gave her an apple. \"The serpent has beguiled me.\" And then the curse came."
 > *— 1958-09-28 · The Serpent's Seed · ¶71*
 
+> "62-0704 | We Would See Jesus
+28 The Word was a thought. And a thought is.... A word is a thought expressed, see. Now, it was God's thoughts, what He was going to do, then He expressed it on the Word. And now when the Holy Spirit gets a hold of the Word, it brings it to pass and manifests it, makes it a reality, every word of God. No Scripture but what is given by inspiration! And every word of God is perfect and correct, and it will be fulfilled. Every word must be fulfilled. "Heavens and earth will pass away," said Jesus, "but My words shall not fail." Every word of it must be fulfilled. Now, then when God does that, and we find our creed then, if we say certain creeds or certain things that we belong to.... And I have nothing against that. That's all right. It's just like eating watermelon, as the colored man said when he ate a slice of it. He said, "What'd you think about it, Mose?" He said, "It was good, but surely there's some more of it." So, it wasn't enough to satisfy. "
+
+- A tought comes before expression
+
+- The mushy stuff works. 
+You have the most beautiful eyes in the world. (emotion vs logic)
+
 **Sub-points:**
 - "Beguile" means "defiled" — the lie is not merely a trick, it is a defilement; it leaves a mark on the inside
 - The serpent worked through agreement, not force — which is why she felt no alarm until it was done
