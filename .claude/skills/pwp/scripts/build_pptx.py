@@ -57,6 +57,7 @@ EMU_PER_IN = 914400
 CHAR_W_FACTOR = 0.52
 LINE_H_FACTOR = 1.25
 FILL_SAFETY = 0.90       # never trust the last 10% of a full line
+MAX_LINES_FACTOR = 4 / 3  # allow ~1/3 more lines per slide before splitting
 DEFAULT_BODY_PT = 40     # fallback if the template font size can't be read
 
 # A "section" title longer than this many characters won't fit the 1-line title
@@ -96,7 +97,7 @@ def capacity(width_emu, height_emu, font_pt):
     w_in = width_emu / EMU_PER_IN
     h_in = height_emu / EMU_PER_IN
     cpl = max(8, int(w_in / (font_pt * CHAR_W_FACTOR / 72)))
-    lines = max(1, int(h_in / (font_pt * LINE_H_FACTOR / 72)))
+    lines = max(1, int(h_in / (font_pt * LINE_H_FACTOR / 72) * MAX_LINES_FACTOR))
     return cpl, lines
 
 
