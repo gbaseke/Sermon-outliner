@@ -372,60 +372,31 @@ When quoting from the Message in the outline, format it exactly as:
 
 ---
 
-## IMAGE USAGE
+## CARD STYLE FOR BULLET-POINT GROUPS
 
-The HTML outline embeds images to visually anchor each major section. Two sources:
+The outline is written in **Markdown** — no images, no HTML. Bullet-point groups
+that have a natural heading (Humanistic, Vision / THUS SAITH THE LORD, This Hour,
+Epiphany, Person Profile, etc.) are still rendered as **cards**: a short, punchy
+derived heading followed by the bullets. Derive the card heading from the content —
+do not reuse the section label verbatim.
 
-1. **Root Images folder** (`../../../Images/` relative to the output file) — always available
-2. **Sermon-specific images** — any image files found in `raw_notes/` during step 1; use them as contextual illustrations where the content invites it (`../raw_notes/<filename>` relative to the output file)
+Render each card as a bold heading above its bullet list:
 
-### Which image to use where
+```markdown
+**[Card Heading]**
 
-| Image | Use for |
-|-------|---------|
-| `quotes.avif` | Before every Branham quote group heading |
-| `scriptures.jpg` | Before every Scripture / Key Scripture group heading |
-| `Notes.png` | Bullet-point card blocks (see Card Style below) |
-| `halo_over_branham.webp` | **Once only** — the single most important Branham quote in the entire outline |
-
-### Placement rule
-Images appear **before** the heading of the group they introduce:
-
-```html
-<img src="../../../Images/quotes.avif" alt="" style="max-width: 64px; display: block; margin-bottom: 6px;">
-<h3>From the Message</h3>
+- ~8-word bullet
+- ~8-word bullet
 ```
 
-### Sizing
-
-| Image | max-width |
-|-------|-----------|
-| `quotes.avif` | 64px |
-| `scriptures.jpg` | 64px |
-| `Notes.png` | 56px |
-| `halo_over_branham.webp` | 130px |
-
-### Card style for bullet-point groups
-When a set of bullet points has a natural heading (Humanistic, Vision / THUS SAITH THE LORD, This Hour, Epiphany, Person Profile, etc.), render it as a card using `Notes.png`. Derive a short, punchy card heading from the content — do not reuse the section label verbatim:
-
-```html
-<div style="border: 1px solid #d4c9b0; border-radius: 10px; padding: 18px 22px; margin: 18px 0; background: #faf8f4;">
-  <img src="../../../Images/Notes.png" alt="" style="max-width: 56px; display: block; margin-bottom: 10px;">
-  <h4 style="margin: 0 0 10px 0; font-size: 1.05em; color: #3a2e1e;">[Card Heading]</h4>
-  <ul style="margin: 0; padding-left: 20px;">
-    <li>~8-word bullet</li>
-    <li>~8-word bullet</li>
-  </ul>
-</div>
-```
-
-**Do not** apply the card style to Branham block quotes or Scripture block quotes — those have their own image headers.
+**Do not** apply the card style to Branham block quotes or Scripture block quotes —
+those keep their own block-quote formatting.
 
 ---
 
 ## QUALITY STANDARDS
 
-Before writing the final outline in html blog/magazine theme type, verify:
+Before writing the final outline as a Markdown (`.md`) file, verify:
 
 - [ ] Every file in the raw_notes folder was read, not just notes.md
 - [ ] The title is original, reflects the outline's actual content/Epiphany, and is not just the topic word or scripture reference
@@ -437,14 +408,11 @@ Before writing the final outline in html blog/magazine theme type, verify:
 - [ ] At least one OT type is developed with a Branham quote
 - [ ] The "This Hour" section is present and specific to the Bride's journey
 - [ ] A hymn is suggested with a clear reason
-- [ ] The output is written to `[sermon-folder]/output/<title-slug>-v<N>.html`, with `<N>` the next unused version number for that title
+- [ ] The output is written to `[sermon-folder]/output/<title-slug>-v<N>.md`, with `<N>` the next unused version number for that title
 - [ ] Tone throughout is warm, pastoral, and reverent — not academic or cold
 - [ ] All narrative sections (Humanistic, type unfolds, Vision, This Hour, Human Scene, Epiphany) are written as bullet points of approximately 8 words each — **no prose paragraphs** in these sections; Branham quotes and Scripture block quotes are the only extended prose
-- [ ] `quotes.avif` appears before every Branham quote group heading; `scriptures.jpg` before every Scripture group heading
-- [ ] `halo_over_branham.webp` is used exactly once, on the single most important Branham quote
-- [ ] Every bullet-point group with a natural heading is rendered as a `Notes.png` card with a derived heading (not a reused section label)
-- [ ] All images are sized per the sizing table (64/56/130px); none appear oversized
-- [ ] Any images found in `raw_notes/` are incorporated where the content invites it
+- [ ] Every bullet-point group with a natural heading is rendered as a card (a derived punchy bold heading above its bullets, not a reused section label)
+- [ ] The outline is pure Markdown — no embedded images and no HTML
 
 ---
 
