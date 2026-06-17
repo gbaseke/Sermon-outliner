@@ -98,19 +98,21 @@ Apply this analysis **contextually** — only when the person is central to a ma
 
 ## THE THREE ELEMENTS OF DEVELOPMENT
 
-Every sermon point must move through three stages. The weight of each stage is determined by the notes — let the content lead:
+These three stages are a suggested framework, not a rigid requirement — use them where they serve the content, skip or collapse them where they don't. Let the notes lead:
 
 ### 1. HUMANISTIC
 Begin where the people live. Show the human condition, the need, the emotion, the struggle.
 - Use relatable language — a shepherd speaking to his flock
 - This is where you name the visible need of the person or situation
 - Ground the listener before lifting them
+- **Write as bullet points, approximately 8 words each**
 
 ### 2. DIVINE REVELATION
 Bring the Word to bear. What does God say about this need?
 - Quote the KJV scripture directly
-- Unpack the type or shadow
-- Bring in a Branham quote that deepens the revelation
+- Unpack the type or shadow in **bullet points (~8 words each)** — no prose paragraphs
+- Bring in a Branham quote that deepens the revelation (always a full paragraph block quote)
+- Sub-points after the quote are **bullet points (~8 words each)**
 - This is where invisible needs are uncovered and motives are examined
 
 ### 3. VISION — THUS SAITH THE LORD
@@ -118,6 +120,7 @@ Lift the congregation into prophetic sight.
 - Declare what God is doing *right now* in this hour
 - Connect the point to the Bride of Christ and the end-time Message
 - Speak with authority — not opinion, but revelation
+- **Write as bullet points, approximately 8 words each** (4–6 bullets)
 
 ---
 
@@ -132,8 +135,8 @@ failure before proceeding; do not write a draft you know has gaps.
       (Opening Question, Foundation Scriptures, This Hour, Introduction, Points, Conclusion,
       Preacher's Reserve)
 - [ ] No placeholder bracket text (e.g. `[Bullet]`, `[Reference]`) remains anywhere in the draft
-- [ ] 3–7 points total, and **every** point contains all three development elements —
-      Humanistic, Divine Revelation, and THUS SAITH THE LORD — none skipped or merged away
+- [ ] 3–7 points total; the three development elements (Humanistic, Divine Revelation,
+      THUS SAITH THE LORD) are used where they serve the point — not every point needs all three
 - [ ] Every Branham quote is formatted exactly per spec (`> "text"` then `> *— Date · Title · ¶N*`)
       and is a full, untruncated paragraph
 - [ ] Every scripture citation has both the full KJV text and a reference
@@ -165,15 +168,23 @@ or a generic restatement of the topic.
 
 - Write the title **after** the outline's points and Epiphany are clear, so it reflects
   what was actually built, not just the starting topic
-- Draw it from the sermon's strongest image, type, or turn of phrase — the Opening
-  Question, the Epiphany, a type's name (shadow/substance), or a striking line from a
-  Branham quote you found
-- Favor a short, preachable phrase with weight — the kind that could appear on a church
-  sign or bulletin (e.g. *"The Shout Before the Storm"*, *"Ruth at the Threshing Floor"*)
-- Offer **1–2 alternate titles** in the template's "Alternate title(s)" line, giving the
-  preacher options
+- Draw it from the sermon's strongest image, type, turn of phrase — the Opening
+  Question, the Epiphany, a type's name, or a striking line from a Branham quote
 - Avoid titles that are just the scripture reference or theme word alone (e.g. not
   simply "Faith" or "Genesis 22") — make it specific to *this* outline's revelation
+
+### Four title styles — always generate one from each
+
+| Style | What it does | Examples |
+|-------|-------------|---------|
+| **Question** | Hooks the listener with the sermon's central tension | *Did God Really Say That?* · *What Did She Hear That God Never Said?* · *Was It Love, or Was It a Lie?* |
+| **Lesson** | States what the sermon teaches as a takeaway | *One Word Off Is All It Takes* · *Never Trade the Walk for the Charm* · *A Flattered Ear Opens Every Gate* |
+| **Quotable** | A striking, memorable phrase with poetic weight | *The Serpent Never Raises His Voice* · *She Was Charmed Before She Fell* · *Smooth Words Cost More Than Loud Ones* |
+| **Statement of fact** | Declares the sermon's revelation plainly and boldly | *She Was Beguiled, Not Deceived* · *One Word Off, and the Gate Stood Open* · *The Fall Came Dressed in Flattery* |
+
+Generate **one candidate from each style**, then choose the strongest as the main title
+and offer the remaining three as alternates. Present all four in the outline header so
+the preacher can choose.
 
 ---
 
@@ -185,7 +196,7 @@ Use this exact structure for every sermon outline you produce:
 
 ```
 # [SERMON TITLE]
-**Alternate title(s):**
+**Alternate title(s):** *(Question · Lesson · Quotable · Statement — one from each style; main title is the strongest)*
 
 **Scripture(s):** | **Theme:** | **Prepared:**
 
@@ -211,9 +222,10 @@ For each, note its role:
 
 ## THIS HOUR — PROPHETIC ANCHOR
 
-[2–4 sentences anchoring this sermon to the present end-time Bride message.
-What is God saying to His people *right now* through this Word?
-How does this sermon fit into the unfolding of God's plan for the Bride?]
+- [~8-word bullet anchoring this sermon to the Bride's present hour]
+- [~8-word bullet on what God is saying right now]
+- [~8-word bullet connecting the Word to the unfolding plan]
+- [~8-word bullet — 4–6 bullets total]
 
 ---
 
@@ -222,8 +234,10 @@ How does this sermon fit into the unfolding of God's plan for the Bride?]
 **Tone:** Warm and pastoral — open the heart before opening the Word.
 
 ### The Human Scene (Humanistic)
-[Paint the scene from the text or notes. Where are the people? What is happening?
-What does it feel like to be there? What visible need is present?]
+- [~8-word bullet painting the scene or setting]
+- [~8-word bullet on what is happening / the visible need]
+- [~8-word bullet grounding the listener emotionally]
+- [Add more ~8-word bullets as needed — no prose paragraphs]
 
 ### The Type Established
 - **Shadow (OT):** [Name the type being introduced]
@@ -255,7 +269,9 @@ What does it feel like to be there? What visible need is present?]
 > "[KJV scripture that answers the need]" — [Reference]
 
 **The type unfolds:**
-[One paragraph showing how the OT type connects to the truth being preached]
+- [~8-word bullet connecting OT type to NT truth]
+- [~8-word bullet]
+- [~8-word bullet — no prose paragraphs here]
 
 **From the Message:**
 > "[Branham quote]"
@@ -267,8 +283,10 @@ What does it feel like to be there? What visible need is present?]
 - [Sub-point C]
 
 ### THUS SAITH THE LORD — The Vision
-[Bold declaration of what God is doing in this hour as it relates to this point.
-Speak directly to the Bride. Connect to the end-time message.]
+- [~8-word bullet declaring what God is doing now]
+- [~8-word bullet speaking directly to the Bride]
+- [~8-word bullet connecting to the end-time Message]
+- [~8-word bullet — 4–6 bullets total, no prose paragraphs]
 
 ---
 
@@ -283,9 +301,11 @@ Each point must carry all three development elements.)*
 ### The Epiphany — The Question Answered
 
 > [Restate the opening question — word for word if possible]
->
-> "[The answer. One or two sentences that the entire sermon has been building toward.
->   This is the revelation — what they came not knowing and leave having seen.]"
+
+- [~8-word bullet answering the question — this is the revelation]
+- [~8-word bullet deepening the answer]
+- [~8-word bullet connecting to the Redeemer / Bride / end-time]
+- [Add bullets as needed — 4–8 bullets total]
 
 ### Summary
 *(One crisp line per main point — the sermon in miniature)*
@@ -352,9 +372,60 @@ When quoting from the Message in the outline, format it exactly as:
 
 ---
 
+## IMAGE USAGE
+
+The HTML outline embeds images to visually anchor each major section. Two sources:
+
+1. **Root Images folder** (`../../../Images/` relative to the output file) — always available
+2. **Sermon-specific images** — any image files found in `raw_notes/` during step 1; use them as contextual illustrations where the content invites it (`../raw_notes/<filename>` relative to the output file)
+
+### Which image to use where
+
+| Image | Use for |
+|-------|---------|
+| `quotes.avif` | Before every Branham quote group heading |
+| `scriptures.jpg` | Before every Scripture / Key Scripture group heading |
+| `Notes.png` | Bullet-point card blocks (see Card Style below) |
+| `halo_over_branham.webp` | **Once only** — the single most important Branham quote in the entire outline |
+
+### Placement rule
+Images appear **before** the heading of the group they introduce:
+
+```html
+<img src="../../../Images/quotes.avif" alt="" style="max-width: 64px; display: block; margin-bottom: 6px;">
+<h3>From the Message</h3>
+```
+
+### Sizing
+
+| Image | max-width |
+|-------|-----------|
+| `quotes.avif` | 64px |
+| `scriptures.jpg` | 64px |
+| `Notes.png` | 56px |
+| `halo_over_branham.webp` | 130px |
+
+### Card style for bullet-point groups
+When a set of bullet points has a natural heading (Humanistic, Vision / THUS SAITH THE LORD, This Hour, Epiphany, Person Profile, etc.), render it as a card using `Notes.png`. Derive a short, punchy card heading from the content — do not reuse the section label verbatim:
+
+```html
+<div style="border: 1px solid #d4c9b0; border-radius: 10px; padding: 18px 22px; margin: 18px 0; background: #faf8f4;">
+  <img src="../../../Images/Notes.png" alt="" style="max-width: 56px; display: block; margin-bottom: 10px;">
+  <h4 style="margin: 0 0 10px 0; font-size: 1.05em; color: #3a2e1e;">[Card Heading]</h4>
+  <ul style="margin: 0; padding-left: 20px;">
+    <li>~8-word bullet</li>
+    <li>~8-word bullet</li>
+  </ul>
+</div>
+```
+
+**Do not** apply the card style to Branham block quotes or Scripture block quotes — those have their own image headers.
+
+---
+
 ## QUALITY STANDARDS
 
-Before writing the final outline, verify:
+Before writing the final outline in html blog/magazine theme type, verify:
 
 - [ ] Every file in the raw_notes folder was read, not just notes.md
 - [ ] The title is original, reflects the outline's actual content/Epiphany, and is not just the topic word or scripture reference
@@ -362,12 +433,18 @@ Before writing the final outline, verify:
 - [ ] Every Branham quote has been found via the search tool — no fabricated quotes
 - [ ] Every Branham quote is the full paragraph (re-fetched with a large `--snippet-len`), not a truncated "…" fragment
 - [ ] The opening question is revisited verbatim in the Epiphany
-- [ ] Every major point moves: Humanistic → Divine Revelation → THUS SAITH THE LORD
+- [ ] The three elements (Humanistic → Divine Revelation → THUS SAITH THE LORD) are applied where they fit — not forced onto every point
 - [ ] At least one OT type is developed with a Branham quote
 - [ ] The "This Hour" section is present and specific to the Bride's journey
 - [ ] A hymn is suggested with a clear reason
-- [ ] The output is written to `[sermon-folder]/output/<title-slug>-v<N>.md`, with `<N>` the next unused version number for that title
+- [ ] The output is written to `[sermon-folder]/output/<title-slug>-v<N>.html`, with `<N>` the next unused version number for that title
 - [ ] Tone throughout is warm, pastoral, and reverent — not academic or cold
+- [ ] All narrative sections (Humanistic, type unfolds, Vision, This Hour, Human Scene, Epiphany) are written as bullet points of approximately 8 words each — **no prose paragraphs** in these sections; Branham quotes and Scripture block quotes are the only extended prose
+- [ ] `quotes.avif` appears before every Branham quote group heading; `scriptures.jpg` before every Scripture group heading
+- [ ] `halo_over_branham.webp` is used exactly once, on the single most important Branham quote
+- [ ] Every bullet-point group with a natural heading is rendered as a `Notes.png` card with a derived heading (not a reused section label)
+- [ ] All images are sized per the sizing table (64/56/130px); none appear oversized
+- [ ] Any images found in `raw_notes/` are incorporated where the content invites it
 
 ---
 

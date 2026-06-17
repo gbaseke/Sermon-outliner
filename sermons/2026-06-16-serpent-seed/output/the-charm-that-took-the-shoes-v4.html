@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Charm That Took the Shoes — Sermon Outline</title>
+<style>
+  :root{
+    --ink:#2b2420; --soft:#5c5147; --line:#e3d9c9; --paper:#fbf7ef;
+    --accent:#7a5c2e; --accent2:#9c2b2b; --gold:#b58a3c; --quote-bg:#f4ecdc;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    line-height:1.7; font-size:18px;
+  }
+  .wrap{max-width:820px; margin:0 auto; padding:48px 28px 96px;}
+  header.masthead{text-align:center; border-bottom:3px double var(--gold); padding-bottom:28px; margin-bottom:36px;}
+  .kicker{letter-spacing:.32em; text-transform:uppercase; font-size:.72rem; color:var(--accent2); font-weight:700;}
+  h1{font-size:2.6rem; line-height:1.12; margin:.35em 0 .15em; font-weight:700; color:var(--ink);}
+  .alt{font-style:italic; color:var(--soft); font-size:1.02rem; margin-top:.2em;}
+  .meta{margin-top:18px; font-size:.86rem; color:var(--soft); display:flex; flex-wrap:wrap; gap:6px 22px; justify-content:center;}
+  .meta b{color:var(--accent);}
+  h2{font-size:1.04rem; letter-spacing:.16em; text-transform:uppercase; color:var(--accent2);
+     border-bottom:1px solid var(--line); padding-bottom:8px; margin:54px 0 20px;}
+  h3{font-size:1.32rem; color:var(--accent); margin:30px 0 10px;}
+  h4{font-size:.82rem; letter-spacing:.12em; text-transform:uppercase; color:var(--soft); margin:22px 0 8px;}
+  .point-num{display:inline-block; font-size:.72rem; letter-spacing:.2em; color:#fff; background:var(--accent);
+     padding:4px 12px; border-radius:2px; text-transform:uppercase; margin-bottom:6px;}
+  .question{
+    background:var(--quote-bg); border-left:5px solid var(--gold); padding:20px 26px;
+    font-size:1.18rem; font-style:italic; color:var(--ink); border-radius:0 6px 6px 0;
+  }
+  blockquote.msg{
+    background:#fff; border:1px solid var(--line); border-left:5px solid var(--accent2);
+    margin:6px 0 16px; padding:18px 24px; border-radius:0 6px 6px 0; box-shadow:0 1px 4px rgba(0,0,0,.04);
+  }
+  blockquote.msg p{margin:0 0 10px; font-style:italic;}
+  blockquote.msg cite{display:block; font-style:normal; font-size:.82rem; color:var(--accent); font-weight:700; letter-spacing:.04em;}
+  blockquote.scripture{
+    background:var(--quote-bg); border-left:5px solid var(--gold); margin:6px 0 14px; padding:14px 22px; border-radius:0 6px 6px 0;
+  }
+  blockquote.scripture p{margin:0 0 6px;}
+  blockquote.scripture cite{font-style:normal; font-size:.82rem; color:var(--accent2); font-weight:700;}
+  table{width:100%; border-collapse:collapse; margin:16px 0; font-size:.92rem;}
+  th,td{border:1px solid var(--line); padding:10px 12px; text-align:left; vertical-align:top;}
+  th{background:var(--accent); color:#fff; letter-spacing:.06em; font-size:.78rem; text-transform:uppercase;}
+  tr:nth-child(even) td{background:#fcf8f0;}
+  .vision{
+    background:linear-gradient(180deg,#2b2420,#3a3027); color:#f4ecdc; padding:22px 26px;
+    border-radius:6px; margin:18px 0; border-left:5px solid var(--gold);
+  }
+  .vision h4{color:var(--gold); margin-top:0;}
+  .vision ul{margin:0; padding-left:1.4em;}
+  .vision ul li{margin:6px 0; color:#f4ecdc;}
+  .heart{font-size:1.16rem; text-align:center; font-style:italic; color:var(--accent2); border-top:1px solid var(--line); border-bottom:1px solid var(--line); padding:20px; margin:28px 0;}
+  ul.tight li{margin:6px 0;}
+  hr.sep{border:0; border-top:1px solid var(--line); margin:44px 0;}
+  .point-block{padding-top:8px;}
+  section.point{border-top:3px double var(--line); margin-top:50px; padding-top:8px;}
+  footer{text-align:center; font-size:.78rem; color:var(--soft); margin-top:60px;}
+
+  /* Section icon (precedes a quote/scripture heading) */
+  .sec-icon{display:block; margin-bottom:6px;}
+  .quote-icon{max-width:64px;}
+  .scripture-icon{max-width:64px;}
+
+  /* Notes.png bullet card */
+  .note-card{border:1px solid #d4c9b0; border-radius:10px; padding:18px 22px; margin:18px 0; background:#faf8f4;}
+  .note-card img{max-width:56px; display:block; margin-bottom:10px;}
+  .note-card h4{margin:0 0 10px 0; font-size:1.05em; color:#3a2e1e; letter-spacing:0; text-transform:none;}
+  .note-card ul{margin:0; padding-left:20px;}
+  .note-card li{margin:6px 0;}
+
+  /* Halo — the single most important quote */
+  .halo-icon{max-width:130px; display:block; margin:0 auto 8px;}
+  .halo-caption{text-align:center; font-size:.8rem; color:var(--soft); font-style:italic; margin:-2px 0 4px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <div class="kicker">A Message for the Bride &middot; Serpent Seed Series</div>
+  <h1>The Charm That Took the Shoes</h1>
+  <div class="alt">Alternate titles: <em>Flattery or Enchantment?</em> &middot; <em>One Word Off, and the Gate Stood Open</em></div>
+  <div class="meta">
+    <span><b>Scriptures:</b> Genesis 3:13&ndash;15; Daniel 11:21,32; Revelation 6:1&ndash;2; Proverbs 30:18&ndash;20</span>
+    <span><b>Theme:</b> Deception is Satan&rsquo;s master-weapon &mdash; he does not break the gate, he charms the heart off one Word</span>
+    <span><b>Prepared:</b> 2026-06-16</span>
+  </div>
+</header>
+
+<h2>The Opening Question</h2>
+<div class="question">
+  How did the liar get past me &mdash; was it flattery or enchantment that he used &mdash;
+  and where do I fortify myself so that I am never beguiled again?
+</div>
+
+<h2>Foundation Scriptures</h2>
+<img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+<table>
+  <thead><tr><th>Scripture</th><th>Reference</th><th>Role</th></tr></thead>
+  <tbody>
+    <tr><td>&ldquo;And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.&rdquo;</td><td>Genesis 3:13</td><td>Setup</td></tr>
+    <tr><td>&ldquo;And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.&rdquo;</td><td>Daniel 11:21</td><td>Development</td></tr>
+    <tr><td>&ldquo;And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.&rdquo;</td><td>Daniel 11:32</td><td>Conclusion / Fortress</td></tr>
+    <tr><td>&ldquo;And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.&rdquo;</td><td>Genesis 3:15</td><td>Altar / Redeemer</td></tr>
+  </tbody>
+</table>
+
+<h2>This Hour &mdash; Prophetic Anchor</h2>
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>The Same Whisper, This Last Hour</h4>
+  <ul>
+    <li>Same subtle spirit whispers in this last hour.</li>
+    <li>Jesus warned it would deceive the very elect.</li>
+    <li>Not crude sin &mdash; a polished, religious lie.</li>
+    <li>Daniel saw it: vile person obtains by flatteries.</li>
+    <li>The Bride is separated by holding every Word.</li>
+    <li>This message hedges the flock before the deceiver.</li>
+  </ul>
+</div>
+
+<h2>Introduction &mdash; Setting the Type</h2>
+<p><em>Tone: warm and pastoral &mdash; open the heart before opening the Word.</em></p>
+
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>He Came With a Promise; I Left Barefoot</h4>
+  <ul>
+    <li>A man promised birds if I gave my shoes.</li>
+    <li>I gave my shoes; he never came back.</li>
+    <li>The shame hurt worse than the bare feet.</li>
+    <li>How did I not see him coming?</li>
+    <li>Every person has a story like that.</li>
+    <li>Smooth voice, friendly smile, too-good offer.</li>
+    <li>The small voice inside knew &mdash; we reasoned it away.</li>
+    <li>Before my shoes, Eve walked away losing everything.</li>
+    <li>Solomon: &ldquo;the way of a serpent upon a rock&rdquo; &mdash; no tracks.</li>
+  </ul>
+</div>
+
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>The Type Established &mdash; Shadow and Substance</h4>
+  <ul>
+    <li><b>Shadow (OT):</b> Eve beguiled, not broken, in Eden.</li>
+    <li>Charmed and talked out of the Word she held.</li>
+    <li><b>Substance (End-time):</b> the church through every age.</li>
+    <li>And the elect Bride in this last hour.</li>
+    <li>Facing the same antichrist spirit dressed in religion.</li>
+  </ul>
+</div>
+
+<img src="../../../Images/halo_over_branham.webp" alt="" class="halo-icon">
+<div class="halo-caption">The prophet to whom God revealed the serpent&rsquo;s seed &mdash; this is the doctrinal hinge of the message</div>
+<h4>Branham on This Type &mdash; &ldquo;Beguile&rdquo; Means &ldquo;Defiled&rdquo;</h4>
+<blockquote class="msg">
+  <p>&ldquo;And there he was. And when he did, God said, begin to call for Eve and Adam. And he said, &lsquo;I was naked.&rsquo; And He said, &lsquo;Who told you you was naked?&rsquo; Then they begin to&mdash;in army fashion, passing the buck. Said, &lsquo;Well, the woman You gave me done it. She was the one who persuaded me.&rsquo; And she said, &lsquo;The serpent give me an apple.&rsquo; All right, preacher, get next to yourself. She said, &lsquo;The serpent beguiled me.&rsquo; Do you know what &lsquo;beguile&rsquo; means? Means &lsquo;defiled.&rsquo; The&hellip; The devil never gave her an apple. &lsquo;The serpent has beguiled me.&rsquo; And then the curse came.&rdquo;</p>
+  <cite>&mdash; 1958-09-28 &middot; The Serpent&rsquo;s Seed &middot; &para;71</cite>
+</blockquote>
+
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>Person Profile &mdash; What God Saw in Eve</h4>
+  <ul>
+    <li><b>Visible need:</b> nothing lacking &mdash; garden, husband, God&rsquo;s presence.</li>
+    <li><b>Invisible need:</b> a craving for wisdom beyond God&rsquo;s Word.</li>
+    <li><b>Motive:</b> wanted more light &mdash; appetite planted by the deceiver.</li>
+    <li><b>Intention:</b> thought she was adding, not subtracting, to the Word.</li>
+    <li><b>What God saw:</b> a daughter charmed off the Word.</li>
+    <li>And a Redeemer already settled in His heart.</li>
+  </ul>
+</div>
+
+<!-- POINT 1 -->
+<section class="point">
+  <div class="point-num">Point 1</div>
+  <h3>He Does Not Break In &mdash; He Beguiles</h3>
+
+  <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+  <h4>Key Scripture</h4>
+  <blockquote class="scripture"><p>&ldquo;Now the serpent was more subtil than any beast of the field which the LORD God had made.&rdquo;</p><cite>Genesis 3:1</cite></blockquote>
+
+  <div class="point-block">
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>We Watched the Wrong Door</h4>
+      <ul>
+        <li>We watch the front gate for monsters.</li>
+        <li>He slips in the back door as a friend.</li>
+        <li>Got caught not because we are stupid.</li>
+        <li>We expected an enemy but met a charmer.</li>
+        <li>Con man picks the lock of trust, not doors.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+    <h4>Divine Revelation &mdash; The Word Says</h4>
+    <blockquote class="scripture"><p>&ldquo;And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.&rdquo;</p><cite>Genesis 3:13</cite></blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>Charmed Into Agreement, Never Forced</h4>
+      <ul>
+        <li>Eve never said the serpent forced her.</li>
+        <li>&ldquo;Beguiled&rdquo; &mdash; charmed, won over, defiled through agreement.</li>
+        <li>Her own hand reached out; he made her want it.</li>
+        <li>Deceiver never makes you victim &mdash; makes you accomplice.</li>
+        <li>He did not put the fruit in her mouth.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+    <h4>From the Message</h4>
+    <blockquote class="msg">
+      <p>&ldquo;I am told that a snake can catch the eye of a bird and charm that bird with its enchantments, and the stare of its eyes, until such a way, if that bird will give the snake its attention for just a few minutes, that bird will flutter and completely become paralyzed. And the snake will take the bird. And I can believe that, because I know of another serpent, the devil, that if he could ever catch the eye with his enchantments, with your modern rock-n-roll, and all your fandangles of the world, if he can ever catch you, young lady or young man, just long enough to get his charm in you, you&rsquo;ll flutter, but you can&rsquo;t get loose. He&rsquo;ll hold you till he swallows you up in sin.&rdquo;</p>
+      <cite>&mdash; 1958-10-03 &middot; Looking at the unseen &middot; &para;32</cite>
+    </blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>The Charm Holds Only Your Attention</h4>
+      <ul>
+        <li>&ldquo;Beguile&rdquo; means &ldquo;defiled&rdquo; &mdash; leaves a mark inside.</li>
+        <li>Serpent worked through agreement, not force.</li>
+        <li>Most subtil &mdash; reasonable, pleasant, warm voice.</li>
+        <li>Charm holds only while you give it attention.</li>
+      </ul>
+    </div>
+
+    <div class="vision">
+      <h4>Thus Saith the Lord &mdash; The Vision</h4>
+      <ul>
+        <li>Enemy comes refined, religious, reasonable, and warm.</li>
+        <li>In this hour the lie wears a clerical collar.</li>
+        <li>Guard where you give attention and agreement.</li>
+        <li>He beguiled God&rsquo;s daughter &mdash; never broke God&rsquo;s gate.</li>
+        <li>Only ones safe: refuse to give him their eye.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- POINT 2 -->
+<section class="point">
+  <div class="point-num">Point 2</div>
+  <h3>The Weapon Was Flattery &mdash; &ldquo;He Shall Come In Peaceably&rdquo;</h3>
+
+  <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+  <h4>Key Scripture</h4>
+  <blockquote class="scripture"><p>&ldquo;And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.&rdquo;</p><cite>Daniel 11:21</cite></blockquote>
+
+  <div class="point-block">
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>A Lie That Feels Like Love</h4>
+      <ul>
+        <li>Bible names the weapon by name: flattery.</li>
+        <li>Flattery is a lie that feels like love.</li>
+        <li>&ldquo;You have beautiful eyes&rdquo; bypasses reason entirely.</li>
+        <li>The man who took my shoes befriended me first.</li>
+        <li>He came in peaceably &mdash; never with a sword.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+    <h4>Divine Revelation &mdash; The Word Says</h4>
+    <blockquote class="scripture"><p>&ldquo;And the serpent said unto the woman, Ye shall not surely die&hellip; ye shall be as gods, knowing good and evil.&rdquo;</p><cite>Genesis 3:4&ndash;5</cite></blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>He Did Not Insult Her &mdash; He Crowned Her</h4>
+      <ul>
+        <li>Serpent did not insult Eve &mdash; he elevated her.</li>
+        <li>&ldquo;Ye shall be as gods&rdquo; &mdash; pure flattery.</li>
+        <li>Told her she was destined for more light.</li>
+        <li>Daniel saw same spirit standing up centuries later.</li>
+        <li>Vile person obtains the kingdom by flatteries, not war.</li>
+        <li>Honeyed voice that beguiled Eve crowned a man.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+    <h4>From the Message</h4>
+    <blockquote class="msg">
+      <p>&ldquo;Incarnate, he become a man and then they crowned him. Read, notice... or read rather, how Daniel said &lsquo;he will take over the church kingdoms.&rsquo; Would you like to read it? We&rsquo;ve got time to do that, haven&rsquo;t we? All right. Let&rsquo;s go back to Daniel just a moment. Turn back to the book of Daniel and we&rsquo;ll read just a moment. And we won&rsquo;t be, maybe another fifteen or twenty minutes, or thirty, or something. All right. Let&rsquo;s get Daniel the 11th chapter, and let&rsquo;s take the 21st verse. Here&rsquo;s Daniel. Daniel is speaking now how this fellow is going to take over. And in his estate shall stand up a vile person ^^ [Rome talking] , ^^ to whom they shall not give the honour of the kingdom ^^ [now, watch] ^^: but he shall come in peaceable, and obtain the kingdom by flatteries.&rdquo;</p>
+      <cite>&mdash; 1963-03-18 &middot; Seals 3: The First Seal &middot; &para;137</cite>
+    </blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>Flattery Is the Antichrist&rsquo;s Diplomacy</h4>
+      <ul>
+        <li>Flattery is the antichrist&rsquo;s diplomacy &mdash; charm over conquest.</li>
+        <li>&ldquo;Come in peaceably&rdquo; is the wolf&rsquo;s disguise.</li>
+        <li>Every offer is a promotion off your Word-place.</li>
+      </ul>
+    </div>
+
+    <div class="vision">
+      <h4>Thus Saith the Lord &mdash; The Vision</h4>
+      <ul>
+        <li>Deceiver flatters his way through, not kicks his way in.</li>
+        <li>Gathering the church world with compliments and unity now.</li>
+        <li>Bride is not flattered off her foundation.</li>
+        <li>When smooth voice says &ldquo;you deserve more,&rdquo; she answers: &ldquo;It is written.&rdquo;</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- POINT 3 -->
+<section class="point">
+  <div class="point-num">Point 3</div>
+  <h3>One Word Off, and the Fortress Stood Open</h3>
+
+  <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+  <h4>Key Scripture</h4>
+  <blockquote class="scripture"><p>&ldquo;Yea, hath God said, Ye shall not eat of every tree of the garden?&rdquo;</p><cite>Genesis 3:1</cite></blockquote>
+
+  <div class="point-block">
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>One Word Loosened, Not a Thousand</h4>
+      <ul>
+        <li>Underneath flattery was one question: &ldquo;Are you sure?&rdquo;</li>
+        <li>He loosened one Word, not all of them.</li>
+        <li>&ldquo;Yea, hath God said?&rdquo; &mdash; the whole fortress opened.</li>
+        <li>We do not fall to a thousand lies.</li>
+        <li>We fall to one word added or doubted.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+    <h4>Divine Revelation &mdash; The Word Says</h4>
+    <blockquote class="scripture"><p>&ldquo;And the serpent said unto the woman, Ye shall not surely die.&rdquo;</p><cite>Genesis 3:4</cite></blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>The Science of Deception</h4>
+      <ul>
+        <li>God said &ldquo;surely die&rdquo;; serpent added one word: &ldquo;not.&rdquo;</li>
+        <li>Did not throw out the Bible &mdash; revised one syllable.</li>
+        <li>Dressed it as more light, deeper understanding.</li>
+        <li>Eve&rsquo;s fall started before she ate the fruit.</li>
+        <li>Began when she let two ideas stand together.</li>
+        <li>Reasoning added alongside the Word &mdash; that is deception.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+    <h4>From the Message</h4>
+    <blockquote class="msg">
+      <p>&ldquo;That&rsquo;s the thing that broke the fellowship in Eden, is because that Eve failed to keep the focus of her looking on God&rsquo;s word, and listened to the reasonings of the enemy, see. See? If she&rsquo;d just stayed right with, &lsquo;God said so, that settles it. God said so.&rsquo; But she didn&rsquo;t want to do that, see. She changed the focus of her glass and began to see instead of being just one way, there become two ways, see. She saw, &lsquo;Well now, maybe this man could be right. Maybe he is right. Now we know God is right; and maybe he&rsquo;s right. This is just more light on what God said.&rsquo; You see there? There&rsquo;s the same thing happens today, exactly right back to the same spot, see. You see two ideas; there&rsquo;s only one. There&rsquo;s not no creed, it&rsquo;s the Word. It&rsquo;s God&rsquo;s word, God&rsquo;s purpose, God&rsquo;s plan. All other plans are no good. That ... and Eve did this evil thing.&rdquo;</p>
+      <cite>&mdash; 1963-04-21 &middot; Victory Day &middot; &para;33</cite>
+    </blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>A Change of Focus, Not Faith</h4>
+      <ul>
+        <li>Weapon was God&rsquo;s Word with one word moved.</li>
+        <li>&ldquo;More light on what God said&rdquo; &mdash; deceiver&rsquo;s favourite disguise.</li>
+        <li>Fall was a change of focus, not faith.</li>
+        <li>From &ldquo;God said so, that settles it&rdquo; to &ldquo;maybe.&rdquo;</li>
+      </ul>
+    </div>
+
+    <div class="vision">
+      <h4>Thus Saith the Lord &mdash; The Vision</h4>
+      <ul>
+        <li>Deceiver does not need to overturn your whole faith.</li>
+        <li>He only needs you to surrender one Word.</li>
+        <li>It is down to a razor&rsquo;s edge in this hour.</li>
+        <li>Antichrist message ninety-nine percent right &mdash; one Word off.</li>
+        <li>Bride takes no &ldquo;more light&rdquo; that moves a single Word.</li>
+        <li>&ldquo;God said so, that settles it&rdquo; &mdash; no debate entertained.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- POINT 4 -->
+<section class="point">
+  <div class="point-num">Point 4</div>
+  <h3>The Same Serpent Rode Into the Church on a White Horse</h3>
+
+  <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+  <h4>Key Scripture</h4>
+  <blockquote class="scripture"><p>&ldquo;And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.&rdquo;</p><cite>Revelation 6:2</cite></blockquote>
+
+  <div class="point-block">
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>The Whole Church World Was Beguiled</h4>
+      <ul>
+        <li>&ldquo;Am I the only one foolish enough to be fooled?&rdquo;</li>
+        <li>No &mdash; the whole church world was beguiled.</li>
+        <li>Most dangerous deceptions look white, orderly, respectable.</li>
+        <li>We trust a crowd, a council, a credential.</li>
+        <li>That is the exact door the deceiver walked through.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+    <h4>Divine Revelation &mdash; The Word Says</h4>
+    <blockquote class="scripture"><p>&ldquo;So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate.&rdquo;</p><cite>Revelation 2:15</cite></blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>The Garden Serpent Grown Into Doctrine</h4>
+      <ul>
+        <li>First seal: white horse &mdash; teachers said Spirit conquering.</li>
+        <li>Branham by revelation: that rider was the antichrist.</li>
+        <li>Same serpent from the garden, grown into doctrine.</li>
+        <li>Nicolaitanes: conquer the laity, organise the scattered.</li>
+        <li>&ldquo;We just want fellowship&rdquo; &mdash; ended with a crowned man.</li>
+        <li>Same flattery that defiled Eve defiled the church.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+    <h4>From the Message</h4>
+    <blockquote class="msg">
+      <p>&ldquo;Now, first stage---white horse. He was just a teacher, but an antichrist spirit in its doctrine and its quality. It was innocent. It couldn&rsquo;t hurt nothing, seemed like. Just going on... That&rsquo;s the way Satan comes in. Oh, he&rsquo;s a slick bird. He told Eve, &lsquo;Now, you know you&rsquo;re looking for wisdom. You don&rsquo;t know what&rsquo;s right and wrong.&rsquo; Said, &lsquo;Now, if your eyes were opened, you would know what...&rsquo; And said, &lsquo;The fruit is very pleasant. It&rsquo;s good. It is pleasant to the eye. You should take it. Now you don&rsquo;t know whether it is or not, do you?&rsquo; &lsquo;No, I don&rsquo;t, but God said not to do it.&rsquo; &lsquo;But, oh!&rsquo; &lsquo;Well, I know, but God said He would...&rsquo; &lsquo;Surely He won&rsquo;t to do that.&rsquo; Just as sweet as it could be. Look what it did. Watch this antichrist spirit rise up amongst the early church, a doctrine of Nicolaitanes. &lsquo;Nico,&rsquo; conquer the laity, make a holy man. &lsquo;Why, we just want fellowship. Why, you&rsquo;re scattered out here. Nobody knows where nobody&rsquo;s at. I think we all ought to have an organization and just be different. We go right ... put ourselves together. We ought to make a lodge out of it.&rsquo;&rdquo;</p>
+      <cite>&mdash; 1963-03-20 &middot; Seals 5: The Third Seal &middot; &para;104</cite>
+    </blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>Rode In a Teacher, Handed a Crown</h4>
+      <ul>
+        <li>White horse rider: antichrist spirit in a white cloak.</li>
+        <li>&ldquo;Surely He won&rsquo;t do that&rdquo; &mdash; same voice, organized.</li>
+        <li>Rode in as a teacher; was handed a crown.</li>
+        <li>Beguiled church from Nicaea to today&rsquo;s church-unions.</li>
+      </ul>
+    </div>
+
+    <div class="vision">
+      <h4>Thus Saith the Lord &mdash; The Vision</h4>
+      <ul>
+        <li>Same rider still in the saddle right now.</li>
+        <li>Gathering the beguiled into one fold &mdash; calling it unity.</li>
+        <li>Spirit of Christ in the Bride calls her out.</li>
+        <li>Elect Bride knows the rider by his fruit &mdash; not his robe.</li>
+        <li>She stays with the Lamb and His Book.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- POINT 5 -->
+<section class="point">
+  <div class="point-num">Point 5</div>
+  <h3>Where the Bride Fortifies: &ldquo;The People That Know Their God&rdquo;</h3>
+
+  <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+  <h4>Key Scripture</h4>
+  <blockquote class="scripture"><p>&ldquo;And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.&rdquo;</p><cite>Daniel 11:32</cite></blockquote>
+
+  <div class="point-block">
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>You Cannot Out-Argue the Serpent</h4>
+      <ul>
+        <li>Your deepest question is exactly the right one.</li>
+        <li>&ldquo;Where do I fortify so I am never caught again?&rdquo;</li>
+        <li>Cannot out-argue the serpent &mdash; Eve tried and lost.</li>
+        <li>Safety is not entering the debate at all.</li>
+        <li>Fortress is not cleverness, research, or experiences.</li>
+        <li>Fortress is a settled heart that knows God.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/scriptures.jpg" alt="" class="sec-icon scripture-icon">
+    <h4>Divine Revelation &mdash; The Word Says</h4>
+    <blockquote class="scripture"><p>&ldquo;And a stranger will they not follow, but will flee from him: for they know not the voice of strangers&hellip; My sheep hear my voice, and I know them, and they follow me.&rdquo;</p><cite>John 10:5, 27</cite></blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>Not the Clever Stand &mdash; Those Who Know Him</h4>
+      <ul>
+        <li>Flatteries corrupt the wicked; cannot move those who know God.</li>
+        <li>Not the clever who stand &mdash; those who know Him.</li>
+        <li>Eve had the Word but lost her focus.</li>
+        <li>She quoted it: &ldquo;God said not to do it.&rdquo;</li>
+        <li>Her defense failed when she entertained the debate.</li>
+        <li>Bride measures every sign by the Word, not the crowd.</li>
+      </ul>
+    </div>
+
+    <img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+    <h4>From the Message</h4>
+    <blockquote class="msg">
+      <p>&ldquo;Now, can&rsquo;t you see that you can&rsquo;t put your trust in healing campaigns? You can&rsquo;t put your trust in any kind of a sign like that. The only thing you can put your trust in is thus saith the Lord from the Bible. Now, church, that is exactly where I have tried to keep you, my children. And if something happens to me and God takes me out of this earth, don&rsquo;t you never fail. Remember this with all your heart: stay with that Word! Don&rsquo;t you leave that Word! Anything contrary to it, leave it alone, no matter what it is. Then you know it&rsquo;s right, see. A healing campaign now! Sinful men that even shock their own managers with their vulgar, and dirt, and filth; and people throw away their crutches and get healed by looking at these boys. It&rsquo;s so filthy, and dirty, and antichrist! You see, it&rsquo;s Satan on a mock campaign, see. He does anything that the Christ can do, but he can&rsquo;t confirm the Word, see. He&rsquo;ll take part of it here and part of it here, but he can&rsquo;t take it altogether, see. He can&rsquo;t get it together. So you see, no wonder the Bible said that would almost fool the very elected if it was possible---the antichrist spirit.&rdquo;</p>
+      <cite>&mdash; 1964-08-23 &middot; Questions and Answers, Part 2 &middot; &para;5</cite>
+    </blockquote>
+
+    <div class="note-card">
+      <img src="../../../Images/Notes.png" alt="">
+      <h4>Break the Charm &mdash; Look Up to the Word</h4>
+      <ul>
+        <li>Refuse &ldquo;Yea, hath God said?&rdquo; with &ldquo;Thus saith the Lord.&rdquo;</li>
+        <li>Antichrist imitates everything Christ does &mdash; except confirm every Word.</li>
+        <li>Bird breaks the charm by lifting its head.</li>
+        <li>Bride breaks enchantment by fixing eyes on the Word.</li>
+        <li>Elect know His voice by predestination, not intellect.</li>
+      </ul>
+    </div>
+
+    <div class="vision">
+      <h4>Thus Saith the Lord &mdash; The Vision</h4>
+      <ul>
+        <li>Build your wall around the Word, not your reasoning.</li>
+        <li>Flatteries that corrupt the wicked cannot corrupt those who know God.</li>
+        <li>Antichrist cannot get the whole Word together &mdash; Bride holds it all.</li>
+        <li>You will not be beguiled again &mdash; not by cleverness.</li>
+        <li>Too settled in the Word to debate the serpent.</li>
+        <li>Stay with that Word. Anything contrary &mdash; leave it alone.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="sep">
+
+<h2>Conclusion</h2>
+
+<h3>The Epiphany &mdash; The Question Answered</h3>
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>How He Got Past You &mdash; and Where You Stand Now</h4>
+  <p style="font-style:italic; color:var(--soft); margin:0 0 10px;">How did the liar get past me &mdash; was it flattery or enchantment that he used &mdash; and where do I fortify myself so that I am never beguiled again?</p>
+  <ul>
+    <li>He got past you the same way he got past Eve.</li>
+    <li>Not by force &mdash; by flattery, coming in peaceably.</li>
+    <li>He moved your focus off &ldquo;God said so&rdquo; onto a lie.</li>
+    <li>It was both: flattery that warmed pride, enchantment that held your eye.</li>
+    <li>The Word that names the weapon names the fortress.</li>
+    <li>&ldquo;The people that do know their God shall be strong.&rdquo;</li>
+    <li>Fortify behind every Word &mdash; refuse the debate entirely.</li>
+    <li>God put enmity between your seed and the serpent&rsquo;s.</li>
+    <li>A Redeemer already crushed the head of your beguiler.</li>
+  </ul>
+</div>
+
+<h3>The Sermon in Miniature</h3>
+<ul class="tight">
+  <li><b>Point 1:</b> He beguiles the heart &mdash; defiling through your own agreement, never by force.</li>
+  <li><b>Point 2:</b> The weapon was flattery &mdash; &ldquo;obtain the kingdom by flatteries&rdquo; &mdash; a lie that feels like love.</li>
+  <li><b>Point 3:</b> One word off opened the fortress &mdash; a single reasoning entertained beside the Word.</li>
+  <li><b>Point 4:</b> Same serpent on a white horse &mdash; antichrist spirit in righteousness, from Nicaea to today.</li>
+  <li><b>Point 5:</b> Bride fortifies as people who know their God &mdash; refusing the debate, measuring every sign by Scripture.</li>
+</ul>
+
+<p class="heart">
+  The serpent beguiles by flattery and one word off, but the Bride is kept by every Word of God &mdash;
+  and the heel he bruised is the heel that crushed his head.
+</p>
+
+<h3>A Closing Hymn</h3>
+<div class="note-card">
+  <img src="../../../Images/Notes.png" alt="">
+  <h4>How Firm a Foundation</h4>
+  <ul>
+    <li><b>Suggested hymn:</b> &ldquo;How Firm a Foundation.&rdquo;</li>
+    <li>The whole sermon drives to one fortress.</li>
+    <li>&ldquo;Thus saith the Lord from the Bible&rdquo; &mdash; the unmoved ground.</li>
+    <li>The believer&rsquo;s whole confidence rests on God&rsquo;s Word.</li>
+    <li>It stands against every flattery and reasoning of the enemy.</li>
+  </ul>
+</div>
+
+<h2>Preacher&rsquo;s Reserve</h2>
+<img src="../../../Images/quotes.avif" alt="" class="sec-icon quote-icon">
+<h4>Held in Reserve &mdash; If the Spirit Leads</h4>
+<ul class="tight" style="margin-top:8px;">
+  <li><b>&ldquo;It will be the flatteries that it&rsquo;s taken&rdquo; (America / end-time):</b> &ldquo;...it will be the flatteries that it&rsquo;s taken. And we&rsquo;re&mdash;we&rsquo;re near the end time now.&rdquo; (1961-01-29 &middot; Turning Northward &middot; &para;49) &mdash; sharpens Point 2 for the national/prophetic dimension.</li>
+  <li><b>The wolf in flatteries:</b> &ldquo;He said it would come in with flatteries like a lamb; but said watch it, behind it it&rsquo;s a wolf. It&rsquo;s a sneaker; you watch it, &lsquo;cause it&rsquo;s contrary to the Word.&rdquo; (1962-04-22 &middot; The restoration of the Bride Tree &middot; &para;156) &mdash; ties flattery to the test of the Word.</li>
+  <li><b>Look up to break the charm (altar-call image):</b> &ldquo;...if it don&rsquo;t quickly start raising its head&hellip; flutter your wings and look upward quickly and see Jesus&hellip; Shake off the old dust off of you, and ask for the old way, for in it is life.&rdquo; (1959-04-10 &middot; Looking at the unseen &middot; &para;34) &mdash; a vivid call for the one who feels already charmed.</li>
+  <li><b>The Redeemer thread for an altar call (Genesis 3:15):</b> trace the bloody sheepskin from Eden to Golgotha &mdash; &ldquo;All that great space come down to one four letter word, l-o-v-e&hellip; promising a Saviour. And that same Saviour, with His own blood around His garments&hellip; walked up Golgotha&rsquo;s hill and was crucified to redeem the man.&rdquo; (1953-08-30 &middot; Why I am a holy-roller &middot; &para;38)</li>
+  <li><b>The elect cannot be deceived (assurance for the trembling):</b> &ldquo;...they were elected and their names put on the book of life before the foundation of the world&hellip; the antichrist will deceive all upon the earth whose names were not written in the book.&rdquo; (1961-04-11 &middot; But it wasn&rsquo;t so from the beginning &middot; &para;28)</li>
+  <li><b>Proverbs 30:20 &mdash; the beguiled conscience:</b> &ldquo;she eateth, and wipeth her mouth, and saith, I have done no wickedness&rdquo; &mdash; the mark of a deceived heart is that it feels innocent. No tracks.</li>
+</ul>
+
+<footer>
+  Serpent Seed Series &middot; The Charm That Took the Shoes &middot; v4 &middot; KJV only &middot; All Message quotes verified from the message-search database.
+</footer>
+
+</div>
+</body>
+</html>
