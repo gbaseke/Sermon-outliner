@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run python -c \" *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Dev\\code\\message-search\\.claude\\skills\\pwp\\scripts"
+    ]
+  }
+}
